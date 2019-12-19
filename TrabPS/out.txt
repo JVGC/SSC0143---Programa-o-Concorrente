@@ -1,0 +1,1110 @@
+Reg 0 - Cid 0: menor: 0, maior: 100, mediana: 48.00, media: 48.05 e DP: 29.81
+Reg 0 - Cid 1: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 28.81
+Reg 0 - Cid 2: menor: 0, maior: 100, mediana: 48.00, media: 48.37 e DP: 28.19
+Reg 0 - Cid 3: menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.06
+Reg 0 - Cid 4: menor: 0, maior: 100, mediana: 50.00, media: 49.95 e DP: 28.35
+Reg 0 - Cid 5: menor: 0, maior: 100, mediana: 51.00, media: 50.25 e DP: 29.04
+Reg 0 - Cid 6: menor: 0, maior: 100, mediana: 51.50, media: 51.74 e DP: 29.08
+Reg 0 - Cid 7: menor: 0, maior: 100, mediana: 49.00, media: 49.79 e DP: 29.08
+Reg 0 - Cid 8: menor: 0, maior: 100, mediana: 48.00, media: 48.79 e DP: 28.56
+Reg 0 - Cid 9: menor: 0, maior: 100, mediana: 50.00, media: 49.85 e DP: 28.99
+Reg 0 - Cid 10: menor: 0, maior: 100, mediana: 50.00, media: 50.83 e DP: 28.92
+Reg 0 - Cid 11: menor: 0, maior: 100, mediana: 50.00, media: 49.68 e DP: 29.23
+Reg 0 - Cid 12: menor: 0, maior: 100, mediana: 51.00, media: 49.79 e DP: 29.13
+Reg 0 - Cid 13: menor: 0, maior: 100, mediana: 51.00, media: 50.74 e DP: 30.18
+Reg 0 - Cid 14: menor: 0, maior: 100, mediana: 46.50, media: 47.97 e DP: 28.49
+Reg 0 - Cid 15: menor: 0, maior: 100, mediana: 49.00, media: 49.32 e DP: 29.73
+Reg 0 - Cid 16: menor: 0, maior: 100, mediana: 52.00, media: 50.78 e DP: 28.89
+Reg 0 - Cid 17: menor: 0, maior: 100, mediana: 54.00, media: 51.31 e DP: 29.96
+Reg 0 - Cid 18: menor: 0, maior: 100, mediana: 51.00, media: 50.55 e DP: 28.97
+Reg 0 - Cid 19: menor: 0, maior: 100, mediana: 48.00, media: 48.97 e DP: 29.05
+Reg 0 - Cid 20: menor: 0, maior: 100, mediana: 50.00, media: 50.91 e DP: 29.58
+Reg 0 - Cid 21: menor: 0, maior: 100, mediana: 52.00, media: 51.53 e DP: 28.52
+Reg 0 - Cid 22: menor: 0, maior: 100, mediana: 46.00, media: 48.46 e DP: 29.26
+Reg 0 - Cid 23: menor: 0, maior: 100, mediana: 51.50, media: 51.52 e DP: 29.28
+Reg 0 - Cid 24: menor: 0, maior: 100, mediana: 49.00, media: 49.91 e DP: 30.36
+Reg 0 - Cid 25: menor: 0, maior: 100, mediana: 49.00, media: 50.30 e DP: 28.78
+Reg 0 - Cid 26: menor: 0, maior: 100, mediana: 49.00, media: 49.73 e DP: 28.90
+Reg 0 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 50.12 e DP: 29.36
+Reg 0 - Cid 28: menor: 0, maior: 100, mediana: 53.00, media: 52.29 e DP: 29.24
+Reg 0 - Cid 29: menor: 0, maior: 100, mediana: 51.00, media: 50.96 e DP: 29.64
+Reg 0 - Cid 30: menor: 0, maior: 100, mediana: 48.00, media: 49.51 e DP: 29.06
+Reg 0 - Cid 31: menor: 0, maior: 100, mediana: 53.00, media: 51.67 e DP: 28.59
+Reg 0 - Cid 32: menor: 0, maior: 100, mediana: 50.00, media: 49.97 e DP: 28.71
+Reg 0 - Cid 33: menor: 0, maior: 100, mediana: 52.00, media: 50.70 e DP: 28.94
+Reg 0 - Cid 34: menor: 0, maior: 100, mediana: 51.00, media: 51.08 e DP: 29.10
+Reg 0 - Cid 35: menor: 0, maior: 100, mediana: 49.00, media: 50.05 e DP: 30.04
+Reg 0 - Cid 36: menor: 0, maior: 100, mediana: 51.00, media: 49.98 e DP: 29.14
+Reg 0 - Cid 37: menor: 0, maior: 100, mediana: 49.00, media: 49.42 e DP: 29.25
+Reg 0 - Cid 38: menor: 0, maior: 100, mediana: 52.00, media: 50.72 e DP: 29.53
+Reg 0 - Cid 39: menor: 0, maior: 100, mediana: 51.00, media: 50.23 e DP: 29.80
+Reg 0 - Cid 40: menor: 0, maior: 100, mediana: 50.00, media: 50.33 e DP: 28.95
+Reg 0 - Cid 41: menor: 0, maior: 100, mediana: 51.00, media: 50.32 e DP: 29.51
+Reg 0 - Cid 42: menor: 0, maior: 100, mediana: 49.00, media: 49.12 e DP: 29.10
+Reg 0 - Cid 43: menor: 0, maior: 100, mediana: 49.00, media: 49.07 e DP: 29.22
+Reg 0 - Cid 44: menor: 0, maior: 100, mediana: 48.00, media: 49.43 e DP: 29.18
+Reg 0 - Cid 45: menor: 0, maior: 100, mediana: 50.00, media: 49.57 e DP: 28.67
+Reg 0 - Cid 46: menor: 0, maior: 100, mediana: 51.00, media: 50.52 e DP: 29.33
+Reg 0 - Cid 47: menor: 0, maior: 100, mediana: 49.00, media: 49.87 e DP: 28.98
+Reg 0 - Cid 48: menor: 0, maior: 100, mediana: 47.00, media: 48.10 e DP: 29.13
+Reg 0 - Cid 49: menor: 0, maior: 100, mediana: 51.00, media: 49.72 e DP: 29.67
+Reg 0 - Cid 50: menor: 0, maior: 100, mediana: 51.00, media: 49.78 e DP: 29.49
+Reg 0 - Cid 51: menor: 0, maior: 100, mediana: 46.00, media: 48.39 e DP: 28.88
+Reg 0 - Cid 52: menor: 0, maior: 100, mediana: 50.00, media: 50.86 e DP: 29.08
+Reg 0 - Cid 53: menor: 0, maior: 100, mediana: 51.00, media: 50.71 e DP: 28.97
+Reg 0 - Cid 54: menor: 0, maior: 100, mediana: 51.00, media: 50.34 e DP: 29.49
+Reg 0 - Cid 55: menor: 0, maior: 100, mediana: 51.00, media: 50.31 e DP: 28.91
+Reg 0 - Cid 56: menor: 0, maior: 100, mediana: 49.00, media: 49.98 e DP: 29.54
+Reg 0 - Cid 57: menor: 0, maior: 100, mediana: 52.00, media: 50.60 e DP: 28.97
+Reg 0 - Cid 58: menor: 0, maior: 100, mediana: 51.00, media: 50.31 e DP: 29.27
+Reg 0 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 50.58 e DP: 30.29
+Reg 0 - Cid 60: menor: 0, maior: 100, mediana: 51.00, media: 50.52 e DP: 28.75
+Reg 0 - Cid 61: menor: 0, maior: 100, mediana: 51.00, media: 50.89 e DP: 29.45
+Reg 0 - Cid 62: menor: 0, maior: 100, mediana: 45.00, media: 48.04 e DP: 28.87
+Reg 0 - Cid 63: menor: 0, maior: 100, mediana: 51.00, media: 50.92 e DP: 29.21
+Reg 0 - Cid 64: menor: 0, maior: 100, mediana: 49.00, media: 49.32 e DP: 29.15
+Reg 0 - Cid 65: menor: 0, maior: 100, mediana: 51.00, media: 50.17 e DP: 29.33
+Reg 0 - Cid 66: menor: 0, maior: 100, mediana: 51.00, media: 49.99 e DP: 29.19
+Reg 0 - Cid 67: menor: 0, maior: 100, mediana: 52.00, media: 51.27 e DP: 29.31
+Reg 0 - Cid 68: menor: 0, maior: 100, mediana: 48.50, media: 48.81 e DP: 29.26
+Reg 0 - Cid 69: menor: 0, maior: 100, mediana: 51.50, media: 50.52 e DP: 28.71
+Reg 0 - Cid 70: menor: 0, maior: 100, mediana: 49.00, media: 50.10 e DP: 28.94
+Reg 0 - Cid 71: menor: 0, maior: 100, mediana: 49.00, media: 48.59 e DP: 28.94
+Reg 0 - Cid 72: menor: 0, maior: 100, mediana: 50.00, media: 49.83 e DP: 29.43
+Reg 0 - Cid 73: menor: 0, maior: 100, mediana: 48.50, media: 49.42 e DP: 28.98
+Reg 0 - Cid 74: menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 28.63
+Reg 0 - Cid 75: menor: 0, maior: 100, mediana: 49.50, media: 50.65 e DP: 28.23
+Reg 0 - Cid 76: menor: 0, maior: 100, mediana: 47.50, media: 48.03 e DP: 29.01
+Reg 0 - Cid 77: menor: 0, maior: 100, mediana: 52.00, media: 50.95 e DP: 29.18
+Reg 0 - Cid 78: menor: 0, maior: 100, mediana: 49.00, media: 50.13 e DP: 29.07
+Reg 0 - Cid 79: menor: 0, maior: 100, mediana: 50.00, media: 49.55 e DP: 28.62
+Reg 0 - Cid 80: menor: 0, maior: 100, mediana: 48.50, media: 49.40 e DP: 29.22
+Reg 0 - Cid 81: menor: 0, maior: 100, mediana: 46.50, media: 48.04 e DP: 29.30
+Reg 0 - Cid 82: menor: 0, maior: 100, mediana: 49.00, media: 50.07 e DP: 29.18
+Reg 0 - Cid 83: menor: 0, maior: 100, mediana: 50.00, media: 49.72 e DP: 29.00
+Reg 0 - Cid 84: menor: 0, maior: 100, mediana: 50.00, media: 49.61 e DP: 29.75
+Reg 0 - Cid 85: menor: 0, maior: 100, mediana: 50.00, media: 49.84 e DP: 29.02
+Reg 0 - Cid 86: menor: 0, maior: 100, mediana: 52.00, media: 50.92 e DP: 29.56
+Reg 0 - Cid 87: menor: 0, maior: 100, mediana: 49.00, media: 49.63 e DP: 29.31
+Reg 0 - Cid 88: menor: 0, maior: 100, mediana: 50.00, media: 50.14 e DP: 29.51
+Reg 0 - Cid 89: menor: 0, maior: 100, mediana: 48.00, media: 48.79 e DP: 29.57
+Reg 0 - Cid 90: menor: 0, maior: 100, mediana: 52.00, media: 51.60 e DP: 29.08
+Reg 0 - Cid 91: menor: 0, maior: 100, mediana: 52.00, media: 50.67 e DP: 29.76
+Reg 0 - Cid 92: menor: 0, maior: 100, mediana: 54.00, media: 52.65 e DP: 28.84
+Reg 0 - Cid 93: menor: 0, maior: 100, mediana: 52.00, media: 51.28 e DP: 29.82
+Reg 0 - Cid 94: menor: 0, maior: 100, mediana: 53.00, media: 51.54 e DP: 29.58
+Reg 0 - Cid 95: menor: 0, maior: 100, mediana: 52.00, media: 50.57 e DP: 29.02
+Reg 0 - Cid 96: menor: 0, maior: 100, mediana: 50.00, media: 49.98 e DP: 29.73
+Reg 0 - Cid 97: menor: 0, maior: 100, mediana: 48.00, media: 48.97 e DP: 29.56
+Reg 0 - Cid 98: menor: 0, maior: 100, mediana: 49.00, media: 48.67 e DP: 29.06
+Reg 0 - Cid 99: menor: 0, maior: 100, mediana: 53.00, media: 51.36 e DP: 28.56
+Reg 0 - Cid 100: menor: 0, maior: 100, mediana: 52.00, media: 50.20 e DP: 29.01
+Reg 1 - Cid 0: menor: 0, maior: 100, mediana: 51.00, media: 49.43 e DP: 28.37
+Reg 1 - Cid 1: menor: 0, maior: 100, mediana: 51.00, media: 51.19 e DP: 29.67
+Reg 1 - Cid 2: menor: 0, maior: 100, mediana: 48.00, media: 48.84 e DP: 29.08
+Reg 1 - Cid 3: menor: 0, maior: 100, mediana: 50.00, media: 49.89 e DP: 29.15
+Reg 1 - Cid 4: menor: 0, maior: 100, mediana: 50.00, media: 50.89 e DP: 29.06
+Reg 1 - Cid 5: menor: 0, maior: 100, mediana: 50.50, media: 50.40 e DP: 29.84
+Reg 1 - Cid 6: menor: 0, maior: 100, mediana: 53.00, media: 52.12 e DP: 29.19
+Reg 1 - Cid 7: menor: 0, maior: 100, mediana: 52.00, media: 51.24 e DP: 28.53
+Reg 1 - Cid 8: menor: 0, maior: 100, mediana: 50.00, media: 49.90 e DP: 29.13
+Reg 1 - Cid 9: menor: 0, maior: 100, mediana: 49.00, media: 49.42 e DP: 28.59
+Reg 1 - Cid 10: menor: 0, maior: 100, mediana: 48.00, media: 48.63 e DP: 29.01
+Reg 1 - Cid 11: menor: 0, maior: 100, mediana: 51.00, media: 50.83 e DP: 29.58
+Reg 1 - Cid 12: menor: 0, maior: 100, mediana: 50.00, media: 51.24 e DP: 29.50
+Reg 1 - Cid 13: menor: 0, maior: 100, mediana: 50.00, media: 50.44 e DP: 29.13
+Reg 1 - Cid 14: menor: 0, maior: 100, mediana: 50.00, media: 49.54 e DP: 28.95
+Reg 1 - Cid 15: menor: 0, maior: 100, mediana: 50.00, media: 49.54 e DP: 29.41
+Reg 1 - Cid 16: menor: 0, maior: 100, mediana: 52.00, media: 51.97 e DP: 28.88
+Reg 1 - Cid 17: menor: 0, maior: 100, mediana: 47.00, media: 48.64 e DP: 29.00
+Reg 1 - Cid 18: menor: 0, maior: 100, mediana: 51.00, media: 50.78 e DP: 29.28
+Reg 1 - Cid 19: menor: 0, maior: 100, mediana: 50.00, media: 49.83 e DP: 28.44
+Reg 1 - Cid 20: menor: 0, maior: 100, mediana: 49.00, media: 49.71 e DP: 29.52
+Reg 1 - Cid 21: menor: 0, maior: 100, mediana: 49.00, media: 48.90 e DP: 29.15
+Reg 1 - Cid 22: menor: 0, maior: 100, mediana: 50.50, media: 49.76 e DP: 29.44
+Reg 1 - Cid 23: menor: 0, maior: 100, mediana: 51.00, media: 51.35 e DP: 29.77
+Reg 1 - Cid 24: menor: 0, maior: 100, mediana: 48.00, media: 49.62 e DP: 27.96
+Reg 1 - Cid 25: menor: 0, maior: 100, mediana: 51.00, media: 50.23 e DP: 29.20
+Reg 1 - Cid 26: menor: 0, maior: 100, mediana: 51.50, media: 51.00 e DP: 28.84
+Reg 1 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 49.42 e DP: 29.25
+Reg 1 - Cid 28: menor: 0, maior: 100, mediana: 49.00, media: 49.94 e DP: 29.10
+Reg 1 - Cid 29: menor: 0, maior: 100, mediana: 49.00, media: 48.67 e DP: 30.46
+Reg 1 - Cid 30: menor: 0, maior: 100, mediana: 51.00, media: 49.68 e DP: 29.28
+Reg 1 - Cid 31: menor: 0, maior: 100, mediana: 49.00, media: 49.57 e DP: 29.25
+Reg 1 - Cid 32: menor: 0, maior: 100, mediana: 47.00, media: 49.19 e DP: 29.34
+Reg 1 - Cid 33: menor: 0, maior: 100, mediana: 52.00, media: 50.73 e DP: 29.43
+Reg 1 - Cid 34: menor: 0, maior: 100, mediana: 48.00, media: 49.69 e DP: 28.69
+Reg 1 - Cid 35: menor: 0, maior: 100, mediana: 51.00, media: 50.48 e DP: 28.81
+Reg 1 - Cid 36: menor: 0, maior: 100, mediana: 51.00, media: 50.00 e DP: 29.69
+Reg 1 - Cid 37: menor: 0, maior: 100, mediana: 49.00, media: 49.46 e DP: 29.43
+Reg 1 - Cid 38: menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.77
+Reg 1 - Cid 39: menor: 0, maior: 100, mediana: 51.00, media: 49.92 e DP: 29.00
+Reg 1 - Cid 40: menor: 0, maior: 100, mediana: 49.00, media: 50.51 e DP: 29.04
+Reg 1 - Cid 41: menor: 0, maior: 100, mediana: 49.00, media: 49.22 e DP: 29.18
+Reg 1 - Cid 42: menor: 0, maior: 100, mediana: 50.00, media: 50.05 e DP: 28.75
+Reg 1 - Cid 43: menor: 0, maior: 100, mediana: 52.00, media: 51.41 e DP: 29.44
+Reg 1 - Cid 44: menor: 0, maior: 100, mediana: 51.00, media: 50.41 e DP: 29.67
+Reg 1 - Cid 45: menor: 0, maior: 100, mediana: 52.00, media: 51.16 e DP: 29.48
+Reg 1 - Cid 46: menor: 0, maior: 100, mediana: 52.00, media: 50.60 e DP: 29.36
+Reg 1 - Cid 47: menor: 0, maior: 100, mediana: 47.50, media: 47.42 e DP: 29.30
+Reg 1 - Cid 48: menor: 0, maior: 100, mediana: 52.00, media: 51.79 e DP: 29.18
+Reg 1 - Cid 49: menor: 0, maior: 100, mediana: 54.00, media: 52.13 e DP: 29.29
+Reg 1 - Cid 50: menor: 0, maior: 100, mediana: 49.00, media: 48.92 e DP: 28.88
+Reg 1 - Cid 51: menor: 0, maior: 100, mediana: 45.00, media: 47.73 e DP: 29.40
+Reg 1 - Cid 52: menor: 0, maior: 100, mediana: 52.00, media: 50.76 e DP: 28.41
+Reg 1 - Cid 53: menor: 0, maior: 100, mediana: 49.00, media: 49.13 e DP: 29.88
+Reg 1 - Cid 54: menor: 0, maior: 100, mediana: 49.00, media: 48.61 e DP: 29.04
+Reg 1 - Cid 55: menor: 0, maior: 100, mediana: 51.00, media: 50.53 e DP: 29.27
+Reg 1 - Cid 56: menor: 0, maior: 100, mediana: 47.00, media: 48.61 e DP: 28.99
+Reg 1 - Cid 57: menor: 0, maior: 100, mediana: 49.50, media: 49.90 e DP: 29.16
+Reg 1 - Cid 58: menor: 0, maior: 100, mediana: 51.00, media: 50.71 e DP: 29.38
+Reg 1 - Cid 59: menor: 0, maior: 100, mediana: 50.50, media: 50.56 e DP: 28.55
+Reg 1 - Cid 60: menor: 0, maior: 100, mediana: 52.00, media: 51.41 e DP: 29.57
+Reg 1 - Cid 61: menor: 0, maior: 100, mediana: 49.00, media: 50.08 e DP: 29.39
+Reg 1 - Cid 62: menor: 0, maior: 100, mediana: 50.00, media: 49.85 e DP: 28.79
+Reg 1 - Cid 63: menor: 0, maior: 100, mediana: 51.00, media: 50.06 e DP: 28.62
+Reg 1 - Cid 64: menor: 0, maior: 100, mediana: 49.00, media: 49.01 e DP: 28.94
+Reg 1 - Cid 65: menor: 0, maior: 100, mediana: 50.00, media: 50.39 e DP: 29.47
+Reg 1 - Cid 66: menor: 0, maior: 100, mediana: 46.00, media: 48.07 e DP: 29.18
+Reg 1 - Cid 67: menor: 0, maior: 100, mediana: 50.50, media: 50.82 e DP: 29.13
+Reg 1 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.01
+Reg 1 - Cid 69: menor: 0, maior: 100, mediana: 51.00, media: 50.27 e DP: 29.17
+Reg 1 - Cid 70: menor: 0, maior: 100, mediana: 49.00, media: 50.09 e DP: 28.89
+Reg 1 - Cid 71: menor: 0, maior: 100, mediana: 51.00, media: 49.45 e DP: 28.99
+Reg 1 - Cid 72: menor: 0, maior: 100, mediana: 49.00, media: 48.96 e DP: 28.92
+Reg 1 - Cid 73: menor: 0, maior: 100, mediana: 49.00, media: 49.71 e DP: 29.57
+Reg 1 - Cid 74: menor: 0, maior: 100, mediana: 51.00, media: 50.62 e DP: 29.47
+Reg 1 - Cid 75: menor: 0, maior: 100, mediana: 50.00, media: 50.96 e DP: 29.17
+Reg 1 - Cid 76: menor: 0, maior: 100, mediana: 52.00, media: 51.88 e DP: 28.69
+Reg 1 - Cid 77: menor: 0, maior: 100, mediana: 50.00, media: 49.44 e DP: 29.86
+Reg 1 - Cid 78: menor: 0, maior: 100, mediana: 51.00, media: 50.47 e DP: 29.46
+Reg 1 - Cid 79: menor: 0, maior: 100, mediana: 51.00, media: 49.11 e DP: 28.77
+Reg 1 - Cid 80: menor: 0, maior: 100, mediana: 48.00, media: 49.38 e DP: 28.85
+Reg 1 - Cid 81: menor: 0, maior: 100, mediana: 51.00, media: 51.08 e DP: 29.56
+Reg 1 - Cid 82: menor: 0, maior: 100, mediana: 51.00, media: 51.16 e DP: 29.17
+Reg 1 - Cid 83: menor: 0, maior: 100, mediana: 50.00, media: 49.98 e DP: 28.81
+Reg 1 - Cid 84: menor: 0, maior: 100, mediana: 49.00, media: 48.98 e DP: 29.07
+Reg 1 - Cid 85: menor: 0, maior: 100, mediana: 54.00, media: 52.64 e DP: 28.93
+Reg 1 - Cid 86: menor: 0, maior: 100, mediana: 51.00, media: 50.45 e DP: 28.58
+Reg 1 - Cid 87: menor: 0, maior: 100, mediana: 49.00, media: 49.33 e DP: 28.57
+Reg 1 - Cid 88: menor: 0, maior: 100, mediana: 52.00, media: 50.76 e DP: 28.51
+Reg 1 - Cid 89: menor: 0, maior: 100, mediana: 47.00, media: 48.77 e DP: 29.14
+Reg 1 - Cid 90: menor: 0, maior: 100, mediana: 50.00, media: 49.86 e DP: 28.76
+Reg 1 - Cid 91: menor: 0, maior: 100, mediana: 51.50, media: 51.55 e DP: 29.47
+Reg 1 - Cid 92: menor: 0, maior: 100, mediana: 51.00, media: 49.96 e DP: 29.69
+Reg 1 - Cid 93: menor: 0, maior: 100, mediana: 50.00, media: 49.69 e DP: 29.01
+Reg 1 - Cid 94: menor: 0, maior: 100, mediana: 51.00, media: 50.59 e DP: 29.48
+Reg 1 - Cid 95: menor: 0, maior: 100, mediana: 48.00, media: 49.18 e DP: 29.15
+Reg 1 - Cid 96: menor: 0, maior: 100, mediana: 51.50, media: 50.38 e DP: 29.54
+Reg 1 - Cid 97: menor: 0, maior: 100, mediana: 52.00, media: 51.12 e DP: 29.20
+Reg 1 - Cid 98: menor: 0, maior: 100, mediana: 52.00, media: 51.46 e DP: 28.83
+Reg 1 - Cid 99: menor: 0, maior: 100, mediana: 51.00, media: 50.63 e DP: 29.38
+Reg 1 - Cid 100: menor: 0, maior: 100, mediana: 51.00, media: 50.34 e DP: 29.01
+Reg 2 - Cid 0: menor: 0, maior: 100, mediana: 52.00, media: 51.27 e DP: 28.69
+Reg 2 - Cid 1: menor: 0, maior: 100, mediana: 51.00, media: 50.02 e DP: 28.83
+Reg 2 - Cid 2: menor: 0, maior: 100, mediana: 51.00, media: 49.87 e DP: 29.29
+Reg 2 - Cid 3: menor: 0, maior: 100, mediana: 52.00, media: 51.42 e DP: 29.07
+Reg 2 - Cid 4: menor: 0, maior: 100, mediana: 51.00, media: 49.83 e DP: 29.12
+Reg 2 - Cid 5: menor: 0, maior: 100, mediana: 51.00, media: 50.66 e DP: 28.84
+Reg 2 - Cid 6: menor: 0, maior: 100, mediana: 48.00, media: 48.74 e DP: 29.14
+Reg 2 - Cid 7: menor: 0, maior: 100, mediana: 48.00, media: 48.59 e DP: 29.19
+Reg 2 - Cid 8: menor: 0, maior: 100, mediana: 48.00, media: 49.29 e DP: 28.79
+Reg 2 - Cid 9: menor: 0, maior: 100, mediana: 52.00, media: 50.88 e DP: 29.11
+Reg 2 - Cid 10: menor: 0, maior: 100, mediana: 50.00, media: 49.54 e DP: 29.21
+Reg 2 - Cid 11: menor: 0, maior: 100, mediana: 50.00, media: 49.93 e DP: 29.10
+Reg 2 - Cid 12: menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.45
+Reg 2 - Cid 13: menor: 0, maior: 100, mediana: 52.00, media: 50.50 e DP: 29.34
+Reg 2 - Cid 14: menor: 0, maior: 100, mediana: 51.00, media: 50.16 e DP: 29.16
+Reg 2 - Cid 15: menor: 0, maior: 100, mediana: 50.00, media: 49.71 e DP: 29.78
+Reg 2 - Cid 16: menor: 0, maior: 100, mediana: 49.00, media: 49.27 e DP: 29.44
+Reg 2 - Cid 17: menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 28.48
+Reg 2 - Cid 18: menor: 0, maior: 100, mediana: 50.50, media: 50.20 e DP: 28.94
+Reg 2 - Cid 19: menor: 0, maior: 100, mediana: 49.00, media: 49.84 e DP: 29.14
+Reg 2 - Cid 20: menor: 0, maior: 100, mediana: 51.00, media: 50.12 e DP: 29.31
+Reg 2 - Cid 21: menor: 0, maior: 100, mediana: 48.50, media: 49.58 e DP: 29.92
+Reg 2 - Cid 22: menor: 0, maior: 100, mediana: 50.00, media: 49.94 e DP: 29.21
+Reg 2 - Cid 23: menor: 0, maior: 100, mediana: 49.50, media: 49.66 e DP: 29.34
+Reg 2 - Cid 24: menor: 0, maior: 100, mediana: 47.00, media: 48.58 e DP: 28.87
+Reg 2 - Cid 25: menor: 0, maior: 100, mediana: 50.50, media: 50.49 e DP: 28.99
+Reg 2 - Cid 26: menor: 0, maior: 100, mediana: 49.00, media: 50.08 e DP: 29.78
+Reg 2 - Cid 27: menor: 0, maior: 100, mediana: 49.00, media: 49.30 e DP: 29.71
+Reg 2 - Cid 28: menor: 0, maior: 100, mediana: 48.00, media: 49.35 e DP: 29.09
+Reg 2 - Cid 29: menor: 0, maior: 100, mediana: 49.00, media: 49.30 e DP: 29.07
+Reg 2 - Cid 30: menor: 0, maior: 100, mediana: 50.50, media: 49.56 e DP: 29.06
+Reg 2 - Cid 31: menor: 0, maior: 100, mediana: 49.00, media: 49.68 e DP: 29.41
+Reg 2 - Cid 32: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 28.87
+Reg 2 - Cid 33: menor: 0, maior: 100, mediana: 51.00, media: 50.70 e DP: 29.95
+Reg 2 - Cid 34: menor: 0, maior: 100, mediana: 48.00, media: 48.76 e DP: 28.94
+Reg 2 - Cid 35: menor: 0, maior: 100, mediana: 50.00, media: 49.55 e DP: 28.35
+Reg 2 - Cid 36: menor: 0, maior: 100, mediana: 50.00, media: 49.12 e DP: 29.50
+Reg 2 - Cid 37: menor: 0, maior: 100, mediana: 48.00, media: 48.68 e DP: 28.49
+Reg 2 - Cid 38: menor: 0, maior: 100, mediana: 48.00, media: 48.67 e DP: 28.95
+Reg 2 - Cid 39: menor: 0, maior: 100, mediana: 52.00, media: 51.60 e DP: 29.28
+Reg 2 - Cid 40: menor: 0, maior: 100, mediana: 53.00, media: 51.65 e DP: 28.70
+Reg 2 - Cid 41: menor: 0, maior: 100, mediana: 51.50, media: 51.38 e DP: 29.14
+Reg 2 - Cid 42: menor: 0, maior: 100, mediana: 48.00, media: 48.56 e DP: 29.15
+Reg 2 - Cid 43: menor: 0, maior: 100, mediana: 53.00, media: 51.08 e DP: 29.32
+Reg 2 - Cid 44: menor: 0, maior: 100, mediana: 49.00, media: 49.70 e DP: 28.87
+Reg 2 - Cid 45: menor: 0, maior: 100, mediana: 52.00, media: 51.21 e DP: 29.14
+Reg 2 - Cid 46: menor: 0, maior: 100, mediana: 48.00, media: 49.12 e DP: 29.89
+Reg 2 - Cid 47: menor: 0, maior: 100, mediana: 49.00, media: 49.15 e DP: 29.15
+Reg 2 - Cid 48: menor: 0, maior: 100, mediana: 52.00, media: 50.64 e DP: 29.38
+Reg 2 - Cid 49: menor: 0, maior: 100, mediana: 52.00, media: 51.13 e DP: 29.85
+Reg 2 - Cid 50: menor: 0, maior: 100, mediana: 52.00, media: 50.91 e DP: 28.52
+Reg 2 - Cid 51: menor: 0, maior: 100, mediana: 51.00, media: 49.81 e DP: 28.77
+Reg 2 - Cid 52: menor: 0, maior: 100, mediana: 49.00, media: 50.22 e DP: 28.29
+Reg 2 - Cid 53: menor: 0, maior: 100, mediana: 48.50, media: 49.60 e DP: 29.55
+Reg 2 - Cid 54: menor: 0, maior: 100, mediana: 51.00, media: 50.52 e DP: 28.91
+Reg 2 - Cid 55: menor: 0, maior: 100, mediana: 50.50, media: 50.20 e DP: 29.68
+Reg 2 - Cid 56: menor: 0, maior: 100, mediana: 48.00, media: 49.80 e DP: 29.18
+Reg 2 - Cid 57: menor: 0, maior: 100, mediana: 51.00, media: 50.84 e DP: 29.34
+Reg 2 - Cid 58: menor: 0, maior: 100, mediana: 52.00, media: 51.28 e DP: 29.16
+Reg 2 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 49.67 e DP: 29.36
+Reg 2 - Cid 60: menor: 0, maior: 100, mediana: 51.00, media: 51.54 e DP: 29.59
+Reg 2 - Cid 61: menor: 0, maior: 100, mediana: 49.00, media: 48.71 e DP: 29.37
+Reg 2 - Cid 62: menor: 0, maior: 100, mediana: 51.00, media: 50.20 e DP: 29.26
+Reg 2 - Cid 63: menor: 0, maior: 100, mediana: 47.00, media: 48.59 e DP: 29.02
+Reg 2 - Cid 64: menor: 0, maior: 100, mediana: 48.50, media: 48.93 e DP: 28.45
+Reg 2 - Cid 65: menor: 0, maior: 100, mediana: 51.00, media: 50.95 e DP: 29.52
+Reg 2 - Cid 66: menor: 0, maior: 100, mediana: 48.00, media: 48.58 e DP: 29.08
+Reg 2 - Cid 67: menor: 0, maior: 100, mediana: 49.00, media: 49.31 e DP: 29.25
+Reg 2 - Cid 68: menor: 0, maior: 100, mediana: 49.00, media: 50.10 e DP: 28.54
+Reg 2 - Cid 69: menor: 0, maior: 100, mediana: 51.00, media: 50.59 e DP: 29.06
+Reg 2 - Cid 70: menor: 0, maior: 100, mediana: 50.00, media: 50.41 e DP: 28.85
+Reg 2 - Cid 71: menor: 0, maior: 100, mediana: 50.00, media: 50.69 e DP: 29.22
+Reg 2 - Cid 72: menor: 0, maior: 100, mediana: 49.00, media: 49.58 e DP: 29.03
+Reg 2 - Cid 73: menor: 0, maior: 100, mediana: 50.00, media: 49.40 e DP: 28.40
+Reg 2 - Cid 74: menor: 0, maior: 100, mediana: 50.00, media: 49.84 e DP: 29.66
+Reg 2 - Cid 75: menor: 0, maior: 100, mediana: 49.00, media: 49.49 e DP: 29.00
+Reg 2 - Cid 76: menor: 0, maior: 100, mediana: 49.50, media: 49.18 e DP: 29.44
+Reg 2 - Cid 77: menor: 0, maior: 100, mediana: 49.00, media: 49.16 e DP: 29.48
+Reg 2 - Cid 78: menor: 0, maior: 100, mediana: 48.00, media: 49.19 e DP: 29.43
+Reg 2 - Cid 79: menor: 0, maior: 100, mediana: 52.00, media: 50.41 e DP: 29.41
+Reg 2 - Cid 80: menor: 0, maior: 100, mediana: 47.50, media: 48.87 e DP: 29.39
+Reg 2 - Cid 81: menor: 0, maior: 100, mediana: 49.00, media: 49.74 e DP: 29.04
+Reg 2 - Cid 82: menor: 0, maior: 100, mediana: 51.00, media: 50.59 e DP: 29.46
+Reg 2 - Cid 83: menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.62
+Reg 2 - Cid 84: menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.05
+Reg 2 - Cid 85: menor: 0, maior: 100, mediana: 51.00, media: 50.07 e DP: 29.08
+Reg 2 - Cid 86: menor: 0, maior: 100, mediana: 50.00, media: 49.95 e DP: 29.23
+Reg 2 - Cid 87: menor: 0, maior: 100, mediana: 51.00, media: 51.99 e DP: 29.68
+Reg 2 - Cid 88: menor: 0, maior: 100, mediana: 46.50, media: 48.52 e DP: 29.39
+Reg 2 - Cid 89: menor: 0, maior: 100, mediana: 52.00, media: 51.42 e DP: 29.11
+Reg 2 - Cid 90: menor: 0, maior: 100, mediana: 50.00, media: 50.53 e DP: 29.64
+Reg 2 - Cid 91: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 29.68
+Reg 2 - Cid 92: menor: 0, maior: 100, mediana: 49.00, media: 49.48 e DP: 29.22
+Reg 2 - Cid 93: menor: 0, maior: 100, mediana: 53.00, media: 52.08 e DP: 29.38
+Reg 2 - Cid 94: menor: 0, maior: 100, mediana: 51.00, media: 49.99 e DP: 28.81
+Reg 2 - Cid 95: menor: 0, maior: 100, mediana: 51.00, media: 50.38 e DP: 29.45
+Reg 2 - Cid 96: menor: 0, maior: 100, mediana: 50.00, media: 49.68 e DP: 29.24
+Reg 2 - Cid 97: menor: 0, maior: 100, mediana: 49.00, media: 50.41 e DP: 29.41
+Reg 2 - Cid 98: menor: 0, maior: 100, mediana: 47.00, media: 48.55 e DP: 28.58
+Reg 2 - Cid 99: menor: 0, maior: 100, mediana: 51.00, media: 51.03 e DP: 27.98
+Reg 2 - Cid 100: menor: 0, maior: 100, mediana: 51.00, media: 49.35 e DP: 29.18
+Reg 3 - Cid 0: menor: 0, maior: 100, mediana: 47.00, media: 47.90 e DP: 28.67
+Reg 3 - Cid 1: menor: 0, maior: 100, mediana: 49.00, media: 48.89 e DP: 29.42
+Reg 3 - Cid 2: menor: 0, maior: 100, mediana: 49.00, media: 49.22 e DP: 28.95
+Reg 3 - Cid 3: menor: 0, maior: 100, mediana: 49.00, media: 48.64 e DP: 28.80
+Reg 3 - Cid 4: menor: 0, maior: 100, mediana: 47.00, media: 48.17 e DP: 29.08
+Reg 3 - Cid 5: menor: 0, maior: 100, mediana: 50.00, media: 49.73 e DP: 29.34
+Reg 3 - Cid 6: menor: 0, maior: 100, mediana: 49.00, media: 48.34 e DP: 29.51
+Reg 3 - Cid 7: menor: 0, maior: 100, mediana: 51.00, media: 50.81 e DP: 29.45
+Reg 3 - Cid 8: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 29.51
+Reg 3 - Cid 9: menor: 0, maior: 100, mediana: 52.00, media: 51.69 e DP: 29.14
+Reg 3 - Cid 10: menor: 0, maior: 100, mediana: 46.00, media: 47.94 e DP: 28.59
+Reg 3 - Cid 11: menor: 0, maior: 100, mediana: 49.00, media: 49.39 e DP: 29.55
+Reg 3 - Cid 12: menor: 0, maior: 100, mediana: 49.00, media: 49.21 e DP: 29.27
+Reg 3 - Cid 13: menor: 0, maior: 100, mediana: 50.00, media: 50.08 e DP: 29.45
+Reg 3 - Cid 14: menor: 0, maior: 100, mediana: 49.00, media: 49.28 e DP: 29.38
+Reg 3 - Cid 15: menor: 0, maior: 100, mediana: 50.00, media: 49.72 e DP: 29.03
+Reg 3 - Cid 16: menor: 0, maior: 100, mediana: 50.00, media: 49.12 e DP: 28.82
+Reg 3 - Cid 17: menor: 0, maior: 100, mediana: 51.00, media: 50.38 e DP: 29.45
+Reg 3 - Cid 18: menor: 0, maior: 100, mediana: 51.00, media: 50.59 e DP: 29.39
+Reg 3 - Cid 19: menor: 0, maior: 100, mediana: 48.50, media: 49.65 e DP: 28.40
+Reg 3 - Cid 20: menor: 0, maior: 100, mediana: 51.00, media: 49.90 e DP: 29.22
+Reg 3 - Cid 21: menor: 0, maior: 100, mediana: 51.00, media: 50.63 e DP: 29.23
+Reg 3 - Cid 22: menor: 0, maior: 100, mediana: 51.00, media: 50.86 e DP: 29.24
+Reg 3 - Cid 23: menor: 0, maior: 100, mediana: 53.00, media: 51.78 e DP: 28.78
+Reg 3 - Cid 24: menor: 0, maior: 100, mediana: 49.00, media: 49.68 e DP: 29.69
+Reg 3 - Cid 25: menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 29.56
+Reg 3 - Cid 26: menor: 0, maior: 100, mediana: 51.00, media: 51.54 e DP: 29.35
+Reg 3 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 50.45 e DP: 29.37
+Reg 3 - Cid 28: menor: 0, maior: 100, mediana: 49.00, media: 49.54 e DP: 29.26
+Reg 3 - Cid 29: menor: 0, maior: 100, mediana: 50.00, media: 49.63 e DP: 29.21
+Reg 3 - Cid 30: menor: 0, maior: 100, mediana: 51.00, media: 50.94 e DP: 28.86
+Reg 3 - Cid 31: menor: 0, maior: 100, mediana: 50.00, media: 49.17 e DP: 29.01
+Reg 3 - Cid 32: menor: 0, maior: 100, mediana: 52.00, media: 51.36 e DP: 28.99
+Reg 3 - Cid 33: menor: 0, maior: 100, mediana: 52.00, media: 51.62 e DP: 28.86
+Reg 3 - Cid 34: menor: 0, maior: 100, mediana: 51.00, media: 50.34 e DP: 29.67
+Reg 3 - Cid 35: menor: 0, maior: 100, mediana: 49.00, media: 49.67 e DP: 29.16
+Reg 3 - Cid 36: menor: 0, maior: 100, mediana: 52.00, media: 50.60 e DP: 29.30
+Reg 3 - Cid 37: menor: 0, maior: 100, mediana: 48.00, media: 49.48 e DP: 28.84
+Reg 3 - Cid 38: menor: 0, maior: 100, mediana: 50.00, media: 49.87 e DP: 29.39
+Reg 3 - Cid 39: menor: 0, maior: 100, mediana: 50.00, media: 49.51 e DP: 29.39
+Reg 3 - Cid 40: menor: 0, maior: 100, mediana: 51.50, media: 51.38 e DP: 29.05
+Reg 3 - Cid 41: menor: 0, maior: 100, mediana: 50.00, media: 50.22 e DP: 28.78
+Reg 3 - Cid 42: menor: 0, maior: 100, mediana: 48.00, media: 49.66 e DP: 29.50
+Reg 3 - Cid 43: menor: 0, maior: 100, mediana: 51.00, media: 50.72 e DP: 29.86
+Reg 3 - Cid 44: menor: 0, maior: 100, mediana: 51.00, media: 51.20 e DP: 28.73
+Reg 3 - Cid 45: menor: 0, maior: 100, mediana: 49.00, media: 49.46 e DP: 29.02
+Reg 3 - Cid 46: menor: 0, maior: 100, mediana: 50.00, media: 50.34 e DP: 29.16
+Reg 3 - Cid 47: menor: 0, maior: 100, mediana: 50.00, media: 50.33 e DP: 29.94
+Reg 3 - Cid 48: menor: 0, maior: 100, mediana: 49.50, media: 50.31 e DP: 29.27
+Reg 3 - Cid 49: menor: 0, maior: 100, mediana: 49.00, media: 49.85 e DP: 28.86
+Reg 3 - Cid 50: menor: 0, maior: 100, mediana: 51.00, media: 50.14 e DP: 29.15
+Reg 3 - Cid 51: menor: 0, maior: 100, mediana: 49.00, media: 50.23 e DP: 28.81
+Reg 3 - Cid 52: menor: 0, maior: 100, mediana: 50.50, media: 50.08 e DP: 29.73
+Reg 3 - Cid 53: menor: 0, maior: 100, mediana: 50.00, media: 50.15 e DP: 29.29
+Reg 3 - Cid 54: menor: 0, maior: 100, mediana: 50.00, media: 49.86 e DP: 29.20
+Reg 3 - Cid 55: menor: 0, maior: 100, mediana: 51.00, media: 50.96 e DP: 29.02
+Reg 3 - Cid 56: menor: 0, maior: 100, mediana: 48.00, media: 49.06 e DP: 29.09
+Reg 3 - Cid 57: menor: 0, maior: 100, mediana: 50.00, media: 50.61 e DP: 28.51
+Reg 3 - Cid 58: menor: 0, maior: 100, mediana: 53.00, media: 51.64 e DP: 30.49
+Reg 3 - Cid 59: menor: 0, maior: 100, mediana: 52.00, media: 50.55 e DP: 28.81
+Reg 3 - Cid 60: menor: 0, maior: 100, mediana: 49.00, media: 49.56 e DP: 29.37
+Reg 3 - Cid 61: menor: 0, maior: 100, mediana: 51.00, media: 50.01 e DP: 29.33
+Reg 3 - Cid 62: menor: 0, maior: 100, mediana: 46.00, media: 47.90 e DP: 29.85
+Reg 3 - Cid 63: menor: 0, maior: 100, mediana: 52.00, media: 51.28 e DP: 28.73
+Reg 3 - Cid 64: menor: 0, maior: 100, mediana: 50.00, media: 50.04 e DP: 28.70
+Reg 3 - Cid 65: menor: 0, maior: 100, mediana: 50.00, media: 50.55 e DP: 29.52
+Reg 3 - Cid 66: menor: 0, maior: 100, mediana: 50.00, media: 50.22 e DP: 28.60
+Reg 3 - Cid 67: menor: 0, maior: 100, mediana: 50.50, media: 50.06 e DP: 29.93
+Reg 3 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 50.44 e DP: 29.20
+Reg 3 - Cid 69: menor: 0, maior: 100, mediana: 52.00, media: 51.03 e DP: 29.13
+Reg 3 - Cid 70: menor: 0, maior: 100, mediana: 49.00, media: 49.15 e DP: 28.93
+Reg 3 - Cid 71: menor: 0, maior: 100, mediana: 48.00, media: 48.93 e DP: 29.03
+Reg 3 - Cid 72: menor: 0, maior: 100, mediana: 51.00, media: 50.71 e DP: 29.20
+Reg 3 - Cid 73: menor: 0, maior: 100, mediana: 50.00, media: 49.32 e DP: 29.10
+Reg 3 - Cid 74: menor: 0, maior: 100, mediana: 50.50, media: 50.16 e DP: 29.22
+Reg 3 - Cid 75: menor: 0, maior: 100, mediana: 52.00, media: 51.28 e DP: 29.05
+Reg 3 - Cid 76: menor: 0, maior: 100, mediana: 52.00, media: 50.52 e DP: 29.61
+Reg 3 - Cid 77: menor: 0, maior: 100, mediana: 49.00, media: 48.77 e DP: 28.68
+Reg 3 - Cid 78: menor: 0, maior: 100, mediana: 48.00, media: 48.40 e DP: 29.37
+Reg 3 - Cid 79: menor: 0, maior: 100, mediana: 50.00, media: 49.09 e DP: 29.65
+Reg 3 - Cid 80: menor: 0, maior: 100, mediana: 51.00, media: 51.66 e DP: 28.51
+Reg 3 - Cid 81: menor: 0, maior: 100, mediana: 53.00, media: 50.98 e DP: 29.08
+Reg 3 - Cid 82: menor: 0, maior: 100, mediana: 51.00, media: 50.49 e DP: 30.43
+Reg 3 - Cid 83: menor: 0, maior: 100, mediana: 48.50, media: 48.67 e DP: 29.30
+Reg 3 - Cid 84: menor: 0, maior: 100, mediana: 49.50, media: 49.80 e DP: 28.85
+Reg 3 - Cid 85: menor: 0, maior: 100, mediana: 46.50, media: 48.30 e DP: 29.52
+Reg 3 - Cid 86: menor: 0, maior: 100, mediana: 50.00, media: 49.77 e DP: 29.71
+Reg 3 - Cid 87: menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 29.08
+Reg 3 - Cid 88: menor: 0, maior: 100, mediana: 48.00, media: 48.87 e DP: 29.12
+Reg 3 - Cid 89: menor: 0, maior: 100, mediana: 51.00, media: 50.68 e DP: 29.28
+Reg 3 - Cid 90: menor: 0, maior: 100, mediana: 50.00, media: 49.48 e DP: 29.05
+Reg 3 - Cid 91: menor: 0, maior: 100, mediana: 49.00, media: 48.74 e DP: 28.83
+Reg 3 - Cid 92: menor: 0, maior: 100, mediana: 52.00, media: 50.48 e DP: 29.10
+Reg 3 - Cid 93: menor: 0, maior: 100, mediana: 50.00, media: 50.15 e DP: 28.68
+Reg 3 - Cid 94: menor: 0, maior: 100, mediana: 49.00, media: 49.49 e DP: 28.97
+Reg 3 - Cid 95: menor: 0, maior: 100, mediana: 48.00, media: 48.68 e DP: 28.75
+Reg 3 - Cid 96: menor: 0, maior: 100, mediana: 49.50, media: 50.11 e DP: 29.26
+Reg 3 - Cid 97: menor: 0, maior: 100, mediana: 51.00, media: 50.83 e DP: 29.08
+Reg 3 - Cid 98: menor: 0, maior: 100, mediana: 51.50, media: 51.32 e DP: 29.58
+Reg 3 - Cid 99: menor: 0, maior: 100, mediana: 48.50, media: 49.69 e DP: 28.29
+Reg 3 - Cid 100: menor: 0, maior: 100, mediana: 51.00, media: 50.95 e DP: 28.33
+Reg 4 - Cid 0: menor: 0, maior: 100, mediana: 50.00, media: 49.62 e DP: 29.27
+Reg 4 - Cid 1: menor: 0, maior: 100, mediana: 48.00, media: 50.41 e DP: 29.54
+Reg 4 - Cid 2: menor: 0, maior: 100, mediana: 52.00, media: 50.45 e DP: 29.47
+Reg 4 - Cid 3: menor: 0, maior: 100, mediana: 51.00, media: 50.12 e DP: 28.66
+Reg 4 - Cid 4: menor: 0, maior: 100, mediana: 51.00, media: 51.34 e DP: 28.84
+Reg 4 - Cid 5: menor: 0, maior: 100, mediana: 52.00, media: 50.57 e DP: 29.80
+Reg 4 - Cid 6: menor: 0, maior: 100, mediana: 47.00, media: 49.19 e DP: 29.90
+Reg 4 - Cid 7: menor: 0, maior: 100, mediana: 50.00, media: 50.08 e DP: 29.95
+Reg 4 - Cid 8: menor: 0, maior: 100, mediana: 50.00, media: 49.52 e DP: 29.29
+Reg 4 - Cid 9: menor: 0, maior: 100, mediana: 49.00, media: 50.02 e DP: 28.93
+Reg 4 - Cid 10: menor: 0, maior: 100, mediana: 50.00, media: 50.24 e DP: 29.54
+Reg 4 - Cid 11: menor: 0, maior: 100, mediana: 51.00, media: 49.70 e DP: 28.32
+Reg 4 - Cid 12: menor: 0, maior: 100, mediana: 49.00, media: 50.19 e DP: 28.77
+Reg 4 - Cid 13: menor: 0, maior: 100, mediana: 49.00, media: 49.66 e DP: 29.52
+Reg 4 - Cid 14: menor: 0, maior: 100, mediana: 47.50, media: 48.78 e DP: 29.39
+Reg 4 - Cid 15: menor: 0, maior: 100, mediana: 51.00, media: 50.51 e DP: 29.48
+Reg 4 - Cid 16: menor: 0, maior: 100, mediana: 52.00, media: 51.56 e DP: 28.92
+Reg 4 - Cid 17: menor: 0, maior: 100, mediana: 51.00, media: 50.71 e DP: 29.06
+Reg 4 - Cid 18: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 28.52
+Reg 4 - Cid 19: menor: 0, maior: 100, mediana: 48.00, media: 48.88 e DP: 29.69
+Reg 4 - Cid 20: menor: 0, maior: 100, mediana: 50.50, media: 50.58 e DP: 29.98
+Reg 4 - Cid 21: menor: 0, maior: 100, mediana: 49.50, media: 48.87 e DP: 29.69
+Reg 4 - Cid 22: menor: 0, maior: 100, mediana: 49.00, media: 49.48 e DP: 29.55
+Reg 4 - Cid 23: menor: 0, maior: 100, mediana: 49.00, media: 48.40 e DP: 29.26
+Reg 4 - Cid 24: menor: 0, maior: 100, mediana: 52.00, media: 51.18 e DP: 29.85
+Reg 4 - Cid 25: menor: 0, maior: 100, mediana: 53.00, media: 51.64 e DP: 29.06
+Reg 4 - Cid 26: menor: 0, maior: 100, mediana: 49.00, media: 49.59 e DP: 29.42
+Reg 4 - Cid 27: menor: 0, maior: 100, mediana: 48.00, media: 48.80 e DP: 29.04
+Reg 4 - Cid 28: menor: 0, maior: 100, mediana: 49.00, media: 49.99 e DP: 29.24
+Reg 4 - Cid 29: menor: 0, maior: 100, mediana: 52.00, media: 51.23 e DP: 28.54
+Reg 4 - Cid 30: menor: 0, maior: 100, mediana: 48.00, media: 48.69 e DP: 29.01
+Reg 4 - Cid 31: menor: 0, maior: 100, mediana: 53.00, media: 51.15 e DP: 28.88
+Reg 4 - Cid 32: menor: 0, maior: 100, mediana: 52.00, media: 50.64 e DP: 29.94
+Reg 4 - Cid 33: menor: 0, maior: 100, mediana: 50.00, media: 50.55 e DP: 29.19
+Reg 4 - Cid 34: menor: 0, maior: 100, mediana: 48.00, media: 48.43 e DP: 29.41
+Reg 4 - Cid 35: menor: 0, maior: 100, mediana: 48.00, media: 49.11 e DP: 28.62
+Reg 4 - Cid 36: menor: 0, maior: 100, mediana: 49.00, media: 49.83 e DP: 29.55
+Reg 4 - Cid 37: menor: 0, maior: 100, mediana: 51.00, media: 50.39 e DP: 29.18
+Reg 4 - Cid 38: menor: 0, maior: 100, mediana: 48.00, media: 49.47 e DP: 28.97
+Reg 4 - Cid 39: menor: 0, maior: 100, mediana: 48.00, media: 49.19 e DP: 29.43
+Reg 4 - Cid 40: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 29.19
+Reg 4 - Cid 41: menor: 0, maior: 100, mediana: 49.00, media: 48.99 e DP: 29.08
+Reg 4 - Cid 42: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 29.15
+Reg 4 - Cid 43: menor: 0, maior: 100, mediana: 50.00, media: 50.28 e DP: 28.78
+Reg 4 - Cid 44: menor: 0, maior: 100, mediana: 52.00, media: 50.53 e DP: 29.39
+Reg 4 - Cid 45: menor: 0, maior: 100, mediana: 50.00, media: 50.31 e DP: 28.94
+Reg 4 - Cid 46: menor: 0, maior: 100, mediana: 51.00, media: 49.95 e DP: 29.46
+Reg 4 - Cid 47: menor: 0, maior: 100, mediana: 52.00, media: 51.11 e DP: 29.25
+Reg 4 - Cid 48: menor: 0, maior: 100, mediana: 49.00, media: 49.14 e DP: 29.18
+Reg 4 - Cid 49: menor: 0, maior: 100, mediana: 50.00, media: 49.88 e DP: 29.36
+Reg 4 - Cid 50: menor: 0, maior: 100, mediana: 49.00, media: 48.56 e DP: 29.08
+Reg 4 - Cid 51: menor: 0, maior: 100, mediana: 51.00, media: 50.00 e DP: 29.77
+Reg 4 - Cid 52: menor: 0, maior: 100, mediana: 51.50, media: 50.80 e DP: 28.76
+Reg 4 - Cid 53: menor: 0, maior: 100, mediana: 48.00, media: 49.11 e DP: 29.12
+Reg 4 - Cid 54: menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.25
+Reg 4 - Cid 55: menor: 0, maior: 100, mediana: 49.00, media: 49.33 e DP: 28.93
+Reg 4 - Cid 56: menor: 0, maior: 100, mediana: 48.00, media: 49.30 e DP: 28.30
+Reg 4 - Cid 57: menor: 0, maior: 100, mediana: 49.00, media: 49.81 e DP: 29.46
+Reg 4 - Cid 58: menor: 0, maior: 100, mediana: 48.00, media: 49.63 e DP: 29.65
+Reg 4 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 49.76 e DP: 28.49
+Reg 4 - Cid 60: menor: 0, maior: 100, mediana: 50.00, media: 49.45 e DP: 28.35
+Reg 4 - Cid 61: menor: 0, maior: 100, mediana: 49.00, media: 48.50 e DP: 28.87
+Reg 4 - Cid 62: menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.61
+Reg 4 - Cid 63: menor: 0, maior: 100, mediana: 47.50, media: 48.83 e DP: 29.25
+Reg 4 - Cid 64: menor: 0, maior: 100, mediana: 51.00, media: 51.00 e DP: 29.15
+Reg 4 - Cid 65: menor: 0, maior: 100, mediana: 47.00, media: 48.08 e DP: 29.38
+Reg 4 - Cid 66: menor: 0, maior: 100, mediana: 48.00, media: 47.86 e DP: 28.13
+Reg 4 - Cid 67: menor: 0, maior: 100, mediana: 50.00, media: 50.14 e DP: 28.74
+Reg 4 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 50.20 e DP: 29.30
+Reg 4 - Cid 69: menor: 0, maior: 100, mediana: 49.00, media: 49.95 e DP: 29.47
+Reg 4 - Cid 70: menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 29.45
+Reg 4 - Cid 71: menor: 0, maior: 100, mediana: 50.00, media: 50.40 e DP: 28.22
+Reg 4 - Cid 72: menor: 0, maior: 100, mediana: 49.00, media: 49.81 e DP: 28.02
+Reg 4 - Cid 73: menor: 0, maior: 100, mediana: 51.00, media: 50.44 e DP: 29.48
+Reg 4 - Cid 74: menor: 0, maior: 100, mediana: 51.50, media: 50.33 e DP: 29.71
+Reg 4 - Cid 75: menor: 0, maior: 100, mediana: 49.00, media: 49.92 e DP: 28.51
+Reg 4 - Cid 76: menor: 0, maior: 100, mediana: 48.00, media: 50.25 e DP: 29.04
+Reg 4 - Cid 77: menor: 0, maior: 100, mediana: 50.00, media: 50.46 e DP: 29.41
+Reg 4 - Cid 78: menor: 0, maior: 100, mediana: 49.00, media: 49.92 e DP: 29.18
+Reg 4 - Cid 79: menor: 0, maior: 100, mediana: 53.00, media: 51.69 e DP: 29.31
+Reg 4 - Cid 80: menor: 0, maior: 100, mediana: 48.00, media: 49.20 e DP: 28.45
+Reg 4 - Cid 81: menor: 0, maior: 100, mediana: 49.00, media: 49.84 e DP: 29.14
+Reg 4 - Cid 82: menor: 0, maior: 100, mediana: 49.00, media: 48.91 e DP: 28.75
+Reg 4 - Cid 83: menor: 0, maior: 100, mediana: 50.00, media: 49.26 e DP: 29.48
+Reg 4 - Cid 84: menor: 0, maior: 100, mediana: 49.00, media: 49.93 e DP: 28.66
+Reg 4 - Cid 85: menor: 0, maior: 100, mediana: 52.00, media: 50.82 e DP: 28.04
+Reg 4 - Cid 86: menor: 0, maior: 100, mediana: 48.00, media: 49.06 e DP: 28.88
+Reg 4 - Cid 87: menor: 0, maior: 100, mediana: 50.00, media: 49.64 e DP: 29.47
+Reg 4 - Cid 88: menor: 0, maior: 100, mediana: 50.00, media: 49.87 e DP: 29.50
+Reg 4 - Cid 89: menor: 0, maior: 100, mediana: 52.00, media: 50.42 e DP: 29.99
+Reg 4 - Cid 90: menor: 0, maior: 100, mediana: 49.00, media: 49.55 e DP: 28.91
+Reg 4 - Cid 91: menor: 0, maior: 100, mediana: 48.00, media: 49.05 e DP: 29.15
+Reg 4 - Cid 92: menor: 0, maior: 100, mediana: 51.50, media: 50.51 e DP: 29.00
+Reg 4 - Cid 93: menor: 0, maior: 100, mediana: 48.00, media: 48.85 e DP: 29.18
+Reg 4 - Cid 94: menor: 0, maior: 100, mediana: 51.00, media: 50.84 e DP: 29.60
+Reg 4 - Cid 95: menor: 0, maior: 100, mediana: 53.00, media: 51.92 e DP: 28.67
+Reg 4 - Cid 96: menor: 0, maior: 100, mediana: 52.00, media: 51.48 e DP: 29.00
+Reg 4 - Cid 97: menor: 0, maior: 100, mediana: 53.00, media: 50.95 e DP: 28.73
+Reg 4 - Cid 98: menor: 0, maior: 100, mediana: 48.00, media: 49.23 e DP: 29.46
+Reg 4 - Cid 99: menor: 0, maior: 100, mediana: 50.00, media: 50.54 e DP: 28.44
+Reg 4 - Cid 100: menor: 0, maior: 100, mediana: 50.00, media: 49.52 e DP: 28.93
+Reg 5 - Cid 0: menor: 0, maior: 100, mediana: 49.00, media: 48.62 e DP: 29.37
+Reg 5 - Cid 1: menor: 0, maior: 100, mediana: 49.50, media: 50.16 e DP: 29.28
+Reg 5 - Cid 2: menor: 0, maior: 100, mediana: 47.50, media: 49.57 e DP: 28.51
+Reg 5 - Cid 3: menor: 0, maior: 100, mediana: 50.00, media: 49.64 e DP: 29.60
+Reg 5 - Cid 4: menor: 0, maior: 100, mediana: 51.00, media: 50.63 e DP: 29.37
+Reg 5 - Cid 5: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 30.05
+Reg 5 - Cid 6: menor: 0, maior: 100, mediana: 48.00, media: 49.10 e DP: 29.23
+Reg 5 - Cid 7: menor: 0, maior: 100, mediana: 48.00, media: 49.23 e DP: 29.26
+Reg 5 - Cid 8: menor: 0, maior: 100, mediana: 49.00, media: 50.22 e DP: 28.92
+Reg 5 - Cid 9: menor: 0, maior: 100, mediana: 48.00, media: 48.81 e DP: 28.63
+Reg 5 - Cid 10: menor: 0, maior: 100, mediana: 49.00, media: 49.12 e DP: 29.95
+Reg 5 - Cid 11: menor: 0, maior: 100, mediana: 50.00, media: 49.81 e DP: 29.35
+Reg 5 - Cid 12: menor: 0, maior: 100, mediana: 51.00, media: 50.31 e DP: 29.05
+Reg 5 - Cid 13: menor: 0, maior: 100, mediana: 52.00, media: 50.98 e DP: 29.60
+Reg 5 - Cid 14: menor: 0, maior: 100, mediana: 48.00, media: 48.39 e DP: 29.23
+Reg 5 - Cid 15: menor: 0, maior: 100, mediana: 51.50, media: 51.08 e DP: 29.02
+Reg 5 - Cid 16: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 28.96
+Reg 5 - Cid 17: menor: 0, maior: 100, mediana: 52.00, media: 50.15 e DP: 29.26
+Reg 5 - Cid 18: menor: 0, maior: 100, mediana: 49.00, media: 50.34 e DP: 29.91
+Reg 5 - Cid 19: menor: 0, maior: 100, mediana: 50.00, media: 50.15 e DP: 28.74
+Reg 5 - Cid 20: menor: 0, maior: 100, mediana: 50.50, media: 49.31 e DP: 28.94
+Reg 5 - Cid 21: menor: 0, maior: 100, mediana: 53.00, media: 51.96 e DP: 29.49
+Reg 5 - Cid 22: menor: 0, maior: 100, mediana: 50.00, media: 49.15 e DP: 28.91
+Reg 5 - Cid 23: menor: 0, maior: 100, mediana: 50.00, media: 50.47 e DP: 28.18
+Reg 5 - Cid 24: menor: 0, maior: 100, mediana: 51.00, media: 50.71 e DP: 28.72
+Reg 5 - Cid 25: menor: 0, maior: 100, mediana: 50.00, media: 49.54 e DP: 29.87
+Reg 5 - Cid 26: menor: 0, maior: 100, mediana: 48.00, media: 49.37 e DP: 29.12
+Reg 5 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 49.99 e DP: 29.19
+Reg 5 - Cid 28: menor: 0, maior: 100, mediana: 51.00, media: 50.25 e DP: 29.44
+Reg 5 - Cid 29: menor: 0, maior: 100, mediana: 52.00, media: 51.77 e DP: 29.53
+Reg 5 - Cid 30: menor: 0, maior: 100, mediana: 47.00, media: 48.06 e DP: 28.87
+Reg 5 - Cid 31: menor: 0, maior: 100, mediana: 49.50, media: 49.81 e DP: 28.69
+Reg 5 - Cid 32: menor: 0, maior: 100, mediana: 48.50, media: 49.18 e DP: 29.55
+Reg 5 - Cid 33: menor: 0, maior: 100, mediana: 48.00, media: 49.18 e DP: 29.38
+Reg 5 - Cid 34: menor: 0, maior: 100, mediana: 51.00, media: 50.63 e DP: 29.10
+Reg 5 - Cid 35: menor: 0, maior: 100, mediana: 53.00, media: 51.05 e DP: 29.45
+Reg 5 - Cid 36: menor: 0, maior: 100, mediana: 50.00, media: 50.25 e DP: 29.20
+Reg 5 - Cid 37: menor: 0, maior: 100, mediana: 46.00, media: 46.95 e DP: 29.42
+Reg 5 - Cid 38: menor: 0, maior: 100, mediana: 49.00, media: 50.07 e DP: 29.66
+Reg 5 - Cid 39: menor: 0, maior: 100, mediana: 50.00, media: 48.92 e DP: 28.77
+Reg 5 - Cid 40: menor: 0, maior: 100, mediana: 50.00, media: 50.15 e DP: 29.01
+Reg 5 - Cid 41: menor: 0, maior: 100, mediana: 49.00, media: 49.66 e DP: 28.95
+Reg 5 - Cid 42: menor: 0, maior: 100, mediana: 51.00, media: 50.61 e DP: 29.71
+Reg 5 - Cid 43: menor: 0, maior: 100, mediana: 51.00, media: 51.09 e DP: 29.14
+Reg 5 - Cid 44: menor: 0, maior: 100, mediana: 49.50, media: 49.90 e DP: 29.19
+Reg 5 - Cid 45: menor: 0, maior: 100, mediana: 52.00, media: 50.42 e DP: 28.98
+Reg 5 - Cid 46: menor: 0, maior: 100, mediana: 50.00, media: 49.71 e DP: 29.68
+Reg 5 - Cid 47: menor: 0, maior: 100, mediana: 51.00, media: 50.74 e DP: 28.97
+Reg 5 - Cid 48: menor: 0, maior: 100, mediana: 49.00, media: 49.06 e DP: 28.67
+Reg 5 - Cid 49: menor: 0, maior: 100, mediana: 48.50, media: 49.63 e DP: 29.52
+Reg 5 - Cid 50: menor: 0, maior: 100, mediana: 51.00, media: 50.88 e DP: 29.11
+Reg 5 - Cid 51: menor: 0, maior: 100, mediana: 51.00, media: 50.73 e DP: 28.78
+Reg 5 - Cid 52: menor: 0, maior: 100, mediana: 53.00, media: 51.81 e DP: 28.99
+Reg 5 - Cid 53: menor: 0, maior: 100, mediana: 49.00, media: 49.53 e DP: 29.72
+Reg 5 - Cid 54: menor: 0, maior: 100, mediana: 51.00, media: 50.65 e DP: 29.33
+Reg 5 - Cid 55: menor: 0, maior: 100, mediana: 48.00, media: 48.87 e DP: 29.30
+Reg 5 - Cid 56: menor: 0, maior: 100, mediana: 52.50, media: 51.41 e DP: 29.76
+Reg 5 - Cid 57: menor: 0, maior: 100, mediana: 51.00, media: 51.39 e DP: 28.99
+Reg 5 - Cid 58: menor: 0, maior: 100, mediana: 50.00, media: 50.16 e DP: 30.32
+Reg 5 - Cid 59: menor: 0, maior: 100, mediana: 49.00, media: 49.28 e DP: 28.40
+Reg 5 - Cid 60: menor: 0, maior: 100, mediana: 51.00, media: 50.93 e DP: 28.51
+Reg 5 - Cid 61: menor: 0, maior: 100, mediana: 50.00, media: 50.41 e DP: 28.87
+Reg 5 - Cid 62: menor: 0, maior: 100, mediana: 53.00, media: 51.44 e DP: 29.14
+Reg 5 - Cid 63: menor: 0, maior: 100, mediana: 48.00, media: 48.73 e DP: 29.07
+Reg 5 - Cid 64: menor: 0, maior: 100, mediana: 50.00, media: 50.19 e DP: 28.65
+Reg 5 - Cid 65: menor: 0, maior: 100, mediana: 49.00, media: 48.70 e DP: 28.81
+Reg 5 - Cid 66: menor: 0, maior: 100, mediana: 51.00, media: 50.57 e DP: 28.89
+Reg 5 - Cid 67: menor: 0, maior: 100, mediana: 51.00, media: 50.55 e DP: 29.12
+Reg 5 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 50.14 e DP: 28.95
+Reg 5 - Cid 69: menor: 0, maior: 100, mediana: 50.00, media: 49.98 e DP: 29.53
+Reg 5 - Cid 70: menor: 0, maior: 100, mediana: 53.50, media: 50.98 e DP: 29.00
+Reg 5 - Cid 71: menor: 0, maior: 100, mediana: 49.00, media: 50.15 e DP: 29.68
+Reg 5 - Cid 72: menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 29.15
+Reg 5 - Cid 73: menor: 0, maior: 100, mediana: 49.50, media: 49.59 e DP: 29.50
+Reg 5 - Cid 74: menor: 0, maior: 100, mediana: 50.00, media: 49.62 e DP: 28.80
+Reg 5 - Cid 75: menor: 0, maior: 100, mediana: 49.00, media: 49.10 e DP: 29.02
+Reg 5 - Cid 76: menor: 0, maior: 100, mediana: 48.00, media: 49.67 e DP: 29.74
+Reg 5 - Cid 77: menor: 0, maior: 100, mediana: 48.00, media: 48.91 e DP: 29.20
+Reg 5 - Cid 78: menor: 0, maior: 100, mediana: 51.00, media: 50.73 e DP: 29.54
+Reg 5 - Cid 79: menor: 0, maior: 100, mediana: 46.50, media: 48.49 e DP: 29.06
+Reg 5 - Cid 80: menor: 0, maior: 100, mediana: 48.00, media: 49.13 e DP: 28.87
+Reg 5 - Cid 81: menor: 0, maior: 100, mediana: 50.00, media: 50.19 e DP: 27.71
+Reg 5 - Cid 82: menor: 0, maior: 100, mediana: 51.00, media: 50.32 e DP: 29.63
+Reg 5 - Cid 83: menor: 0, maior: 100, mediana: 51.00, media: 49.98 e DP: 28.82
+Reg 5 - Cid 84: menor: 0, maior: 100, mediana: 51.00, media: 50.32 e DP: 29.34
+Reg 5 - Cid 85: menor: 0, maior: 100, mediana: 47.00, media: 48.87 e DP: 28.83
+Reg 5 - Cid 86: menor: 0, maior: 100, mediana: 50.00, media: 50.15 e DP: 29.38
+Reg 5 - Cid 87: menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.49
+Reg 5 - Cid 88: menor: 0, maior: 100, mediana: 50.00, media: 50.89 e DP: 29.11
+Reg 5 - Cid 89: menor: 0, maior: 100, mediana: 49.00, media: 50.13 e DP: 29.18
+Reg 5 - Cid 90: menor: 0, maior: 100, mediana: 48.00, media: 49.09 e DP: 29.48
+Reg 5 - Cid 91: menor: 0, maior: 100, mediana: 51.00, media: 50.69 e DP: 29.68
+Reg 5 - Cid 92: menor: 0, maior: 100, mediana: 50.00, media: 49.38 e DP: 28.96
+Reg 5 - Cid 93: menor: 0, maior: 100, mediana: 50.00, media: 50.02 e DP: 28.27
+Reg 5 - Cid 94: menor: 0, maior: 100, mediana: 49.00, media: 49.25 e DP: 29.56
+Reg 5 - Cid 95: menor: 0, maior: 100, mediana: 51.00, media: 50.74 e DP: 29.44
+Reg 5 - Cid 96: menor: 0, maior: 100, mediana: 52.00, media: 50.08 e DP: 28.65
+Reg 5 - Cid 97: menor: 0, maior: 100, mediana: 51.00, media: 51.25 e DP: 28.87
+Reg 5 - Cid 98: menor: 0, maior: 100, mediana: 47.00, media: 49.38 e DP: 29.78
+Reg 5 - Cid 99: menor: 0, maior: 100, mediana: 50.00, media: 49.48 e DP: 29.45
+Reg 5 - Cid 100: menor: 0, maior: 100, mediana: 48.00, media: 48.91 e DP: 29.33
+Reg 6 - Cid 0: menor: 0, maior: 100, mediana: 51.00, media: 51.03 e DP: 29.04
+Reg 6 - Cid 1: menor: 0, maior: 100, mediana: 52.00, media: 51.29 e DP: 29.36
+Reg 6 - Cid 2: menor: 0, maior: 100, mediana: 52.00, media: 50.57 e DP: 30.11
+Reg 6 - Cid 3: menor: 0, maior: 100, mediana: 51.00, media: 50.96 e DP: 28.87
+Reg 6 - Cid 4: menor: 0, maior: 100, mediana: 50.00, media: 50.67 e DP: 30.12
+Reg 6 - Cid 5: menor: 0, maior: 100, mediana: 46.00, media: 48.87 e DP: 29.19
+Reg 6 - Cid 6: menor: 0, maior: 100, mediana: 50.50, media: 49.97 e DP: 29.54
+Reg 6 - Cid 7: menor: 0, maior: 100, mediana: 51.00, media: 50.91 e DP: 29.57
+Reg 6 - Cid 8: menor: 0, maior: 100, mediana: 52.00, media: 50.72 e DP: 29.73
+Reg 6 - Cid 9: menor: 0, maior: 100, mediana: 50.50, media: 50.44 e DP: 28.75
+Reg 6 - Cid 10: menor: 0, maior: 100, mediana: 46.50, media: 48.91 e DP: 29.30
+Reg 6 - Cid 11: menor: 0, maior: 100, mediana: 50.00, media: 49.89 e DP: 29.58
+Reg 6 - Cid 12: menor: 0, maior: 100, mediana: 48.00, media: 48.62 e DP: 29.33
+Reg 6 - Cid 13: menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 29.02
+Reg 6 - Cid 14: menor: 0, maior: 100, mediana: 48.50, media: 48.53 e DP: 29.26
+Reg 6 - Cid 15: menor: 0, maior: 100, mediana: 49.00, media: 49.01 e DP: 28.62
+Reg 6 - Cid 16: menor: 0, maior: 100, mediana: 48.00, media: 48.56 e DP: 29.17
+Reg 6 - Cid 17: menor: 0, maior: 100, mediana: 51.00, media: 51.23 e DP: 29.11
+Reg 6 - Cid 18: menor: 0, maior: 100, mediana: 51.00, media: 49.86 e DP: 28.80
+Reg 6 - Cid 19: menor: 0, maior: 100, mediana: 50.00, media: 49.99 e DP: 29.11
+Reg 6 - Cid 20: menor: 0, maior: 100, mediana: 52.00, media: 51.29 e DP: 28.86
+Reg 6 - Cid 21: menor: 0, maior: 100, mediana: 53.00, media: 51.41 e DP: 29.15
+Reg 6 - Cid 22: menor: 0, maior: 100, mediana: 47.00, media: 47.87 e DP: 28.52
+Reg 6 - Cid 23: menor: 0, maior: 100, mediana: 50.00, media: 49.67 e DP: 28.94
+Reg 6 - Cid 24: menor: 0, maior: 100, mediana: 49.00, media: 49.56 e DP: 28.95
+Reg 6 - Cid 25: menor: 0, maior: 100, mediana: 49.00, media: 49.98 e DP: 29.78
+Reg 6 - Cid 26: menor: 0, maior: 100, mediana: 50.00, media: 49.78 e DP: 29.87
+Reg 6 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 50.55 e DP: 29.97
+Reg 6 - Cid 28: menor: 0, maior: 100, mediana: 52.00, media: 50.20 e DP: 28.74
+Reg 6 - Cid 29: menor: 0, maior: 100, mediana: 53.00, media: 51.24 e DP: 29.49
+Reg 6 - Cid 30: menor: 0, maior: 100, mediana: 53.50, media: 52.01 e DP: 28.84
+Reg 6 - Cid 31: menor: 0, maior: 100, mediana: 49.50, media: 50.35 e DP: 29.54
+Reg 6 - Cid 32: menor: 0, maior: 100, mediana: 50.00, media: 49.87 e DP: 28.46
+Reg 6 - Cid 33: menor: 0, maior: 100, mediana: 52.00, media: 50.89 e DP: 29.97
+Reg 6 - Cid 34: menor: 0, maior: 100, mediana: 51.00, media: 50.96 e DP: 28.78
+Reg 6 - Cid 35: menor: 0, maior: 100, mediana: 48.50, media: 49.87 e DP: 28.96
+Reg 6 - Cid 36: menor: 0, maior: 100, mediana: 50.50, media: 50.01 e DP: 28.88
+Reg 6 - Cid 37: menor: 0, maior: 100, mediana: 51.00, media: 49.77 e DP: 30.02
+Reg 6 - Cid 38: menor: 0, maior: 100, mediana: 51.00, media: 50.98 e DP: 29.63
+Reg 6 - Cid 39: menor: 0, maior: 100, mediana: 49.00, media: 49.44 e DP: 28.41
+Reg 6 - Cid 40: menor: 0, maior: 100, mediana: 51.00, media: 51.07 e DP: 29.10
+Reg 6 - Cid 41: menor: 0, maior: 100, mediana: 49.00, media: 49.99 e DP: 28.56
+Reg 6 - Cid 42: menor: 0, maior: 100, mediana: 51.00, media: 50.05 e DP: 29.73
+Reg 6 - Cid 43: menor: 0, maior: 100, mediana: 50.00, media: 50.33 e DP: 29.72
+Reg 6 - Cid 44: menor: 0, maior: 100, mediana: 49.00, media: 49.07 e DP: 28.95
+Reg 6 - Cid 45: menor: 0, maior: 100, mediana: 51.00, media: 50.72 e DP: 29.19
+Reg 6 - Cid 46: menor: 0, maior: 100, mediana: 49.00, media: 48.98 e DP: 29.27
+Reg 6 - Cid 47: menor: 0, maior: 100, mediana: 51.00, media: 49.94 e DP: 29.24
+Reg 6 - Cid 48: menor: 0, maior: 100, mediana: 50.00, media: 49.89 e DP: 29.49
+Reg 6 - Cid 49: menor: 0, maior: 100, mediana: 50.00, media: 49.57 e DP: 29.47
+Reg 6 - Cid 50: menor: 0, maior: 100, mediana: 49.00, media: 49.43 e DP: 29.29
+Reg 6 - Cid 51: menor: 0, maior: 100, mediana: 50.00, media: 49.70 e DP: 29.18
+Reg 6 - Cid 52: menor: 0, maior: 100, mediana: 52.00, media: 51.24 e DP: 29.22
+Reg 6 - Cid 53: menor: 0, maior: 100, mediana: 51.00, media: 51.05 e DP: 28.94
+Reg 6 - Cid 54: menor: 0, maior: 100, mediana: 50.00, media: 50.24 e DP: 29.29
+Reg 6 - Cid 55: menor: 0, maior: 100, mediana: 47.00, media: 49.04 e DP: 29.48
+Reg 6 - Cid 56: menor: 0, maior: 100, mediana: 48.00, media: 49.25 e DP: 28.83
+Reg 6 - Cid 57: menor: 0, maior: 100, mediana: 51.00, media: 49.25 e DP: 28.47
+Reg 6 - Cid 58: menor: 0, maior: 100, mediana: 49.00, media: 49.85 e DP: 29.08
+Reg 6 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 50.34 e DP: 29.29
+Reg 6 - Cid 60: menor: 0, maior: 100, mediana: 52.00, media: 51.48 e DP: 28.90
+Reg 6 - Cid 61: menor: 0, maior: 100, mediana: 50.00, media: 50.50 e DP: 28.33
+Reg 6 - Cid 62: menor: 0, maior: 100, mediana: 51.00, media: 50.88 e DP: 29.47
+Reg 6 - Cid 63: menor: 0, maior: 100, mediana: 51.00, media: 49.73 e DP: 28.78
+Reg 6 - Cid 64: menor: 0, maior: 100, mediana: 50.00, media: 49.83 e DP: 29.63
+Reg 6 - Cid 65: menor: 0, maior: 100, mediana: 50.00, media: 49.60 e DP: 29.10
+Reg 6 - Cid 66: menor: 0, maior: 100, mediana: 47.00, media: 47.77 e DP: 28.92
+Reg 6 - Cid 67: menor: 0, maior: 100, mediana: 51.00, media: 50.16 e DP: 28.53
+Reg 6 - Cid 68: menor: 0, maior: 100, mediana: 52.00, media: 51.24 e DP: 29.44
+Reg 6 - Cid 69: menor: 0, maior: 100, mediana: 49.00, media: 49.37 e DP: 29.16
+Reg 6 - Cid 70: menor: 0, maior: 100, mediana: 50.50, media: 50.64 e DP: 29.04
+Reg 6 - Cid 71: menor: 0, maior: 100, mediana: 50.00, media: 50.12 e DP: 28.66
+Reg 6 - Cid 72: menor: 0, maior: 100, mediana: 49.50, media: 49.99 e DP: 29.49
+Reg 6 - Cid 73: menor: 0, maior: 100, mediana: 48.00, media: 48.59 e DP: 28.79
+Reg 6 - Cid 74: menor: 0, maior: 100, mediana: 49.00, media: 49.41 e DP: 29.23
+Reg 6 - Cid 75: menor: 0, maior: 100, mediana: 52.00, media: 51.31 e DP: 28.68
+Reg 6 - Cid 76: menor: 0, maior: 100, mediana: 51.00, media: 50.92 e DP: 28.98
+Reg 6 - Cid 77: menor: 0, maior: 100, mediana: 47.00, media: 48.43 e DP: 29.54
+Reg 6 - Cid 78: menor: 0, maior: 100, mediana: 49.00, media: 49.45 e DP: 28.65
+Reg 6 - Cid 79: menor: 0, maior: 100, mediana: 50.50, media: 50.41 e DP: 29.53
+Reg 6 - Cid 80: menor: 0, maior: 100, mediana: 49.00, media: 48.66 e DP: 29.28
+Reg 6 - Cid 81: menor: 0, maior: 100, mediana: 51.00, media: 50.26 e DP: 29.28
+Reg 6 - Cid 82: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 29.27
+Reg 6 - Cid 83: menor: 0, maior: 100, mediana: 51.00, media: 50.11 e DP: 29.54
+Reg 6 - Cid 84: menor: 0, maior: 100, mediana: 51.00, media: 50.22 e DP: 29.26
+Reg 6 - Cid 85: menor: 0, maior: 100, mediana: 47.00, media: 48.63 e DP: 28.69
+Reg 6 - Cid 86: menor: 0, maior: 100, mediana: 52.00, media: 50.77 e DP: 29.36
+Reg 6 - Cid 87: menor: 0, maior: 100, mediana: 49.00, media: 48.38 e DP: 28.11
+Reg 6 - Cid 88: menor: 0, maior: 100, mediana: 48.00, media: 49.75 e DP: 29.45
+Reg 6 - Cid 89: menor: 0, maior: 100, mediana: 51.00, media: 51.43 e DP: 29.77
+Reg 6 - Cid 90: menor: 0, maior: 100, mediana: 50.00, media: 49.59 e DP: 29.60
+Reg 6 - Cid 91: menor: 0, maior: 100, mediana: 48.50, media: 49.11 e DP: 29.33
+Reg 6 - Cid 92: menor: 0, maior: 100, mediana: 46.00, media: 47.84 e DP: 28.62
+Reg 6 - Cid 93: menor: 0, maior: 100, mediana: 50.00, media: 50.38 e DP: 29.35
+Reg 6 - Cid 94: menor: 0, maior: 100, mediana: 49.00, media: 50.07 e DP: 28.87
+Reg 6 - Cid 95: menor: 0, maior: 100, mediana: 52.00, media: 51.06 e DP: 29.01
+Reg 6 - Cid 96: menor: 0, maior: 100, mediana: 48.00, media: 49.45 e DP: 29.32
+Reg 6 - Cid 97: menor: 0, maior: 100, mediana: 51.00, media: 50.92 e DP: 29.86
+Reg 6 - Cid 98: menor: 0, maior: 100, mediana: 48.00, media: 49.19 e DP: 30.10
+Reg 6 - Cid 99: menor: 0, maior: 100, mediana: 49.00, media: 50.21 e DP: 29.31
+Reg 6 - Cid 100: menor: 0, maior: 100, mediana: 50.00, media: 49.37 e DP: 29.17
+Reg 7 - Cid 0: menor: 0, maior: 100, mediana: 50.00, media: 49.47 e DP: 29.46
+Reg 7 - Cid 1: menor: 0, maior: 100, mediana: 50.00, media: 50.17 e DP: 29.90
+Reg 7 - Cid 2: menor: 0, maior: 100, mediana: 50.00, media: 50.31 e DP: 29.05
+Reg 7 - Cid 3: menor: 0, maior: 100, mediana: 46.00, media: 48.20 e DP: 29.47
+Reg 7 - Cid 4: menor: 0, maior: 100, mediana: 51.00, media: 50.99 e DP: 29.54
+Reg 7 - Cid 5: menor: 0, maior: 100, mediana: 50.00, media: 50.56 e DP: 29.13
+Reg 7 - Cid 6: menor: 0, maior: 100, mediana: 48.00, media: 48.40 e DP: 29.40
+Reg 7 - Cid 7: menor: 0, maior: 100, mediana: 49.50, media: 50.39 e DP: 28.46
+Reg 7 - Cid 8: menor: 0, maior: 100, mediana: 51.00, media: 51.30 e DP: 28.82
+Reg 7 - Cid 9: menor: 0, maior: 100, mediana: 51.00, media: 51.12 e DP: 29.22
+Reg 7 - Cid 10: menor: 0, maior: 100, mediana: 48.00, media: 49.26 e DP: 29.13
+Reg 7 - Cid 11: menor: 0, maior: 100, mediana: 50.00, media: 49.44 e DP: 29.63
+Reg 7 - Cid 12: menor: 0, maior: 100, mediana: 52.00, media: 50.89 e DP: 29.30
+Reg 7 - Cid 13: menor: 0, maior: 100, mediana: 52.00, media: 51.25 e DP: 29.61
+Reg 7 - Cid 14: menor: 0, maior: 100, mediana: 52.00, media: 51.35 e DP: 28.88
+Reg 7 - Cid 15: menor: 0, maior: 100, mediana: 52.00, media: 50.75 e DP: 29.55
+Reg 7 - Cid 16: menor: 0, maior: 100, mediana: 51.00, media: 49.74 e DP: 29.12
+Reg 7 - Cid 17: menor: 0, maior: 100, mediana: 49.00, media: 49.59 e DP: 28.64
+Reg 7 - Cid 18: menor: 0, maior: 100, mediana: 53.00, media: 51.89 e DP: 29.63
+Reg 7 - Cid 19: menor: 0, maior: 100, mediana: 48.50, media: 49.25 e DP: 28.99
+Reg 7 - Cid 20: menor: 0, maior: 100, mediana: 48.00, media: 49.09 e DP: 28.88
+Reg 7 - Cid 21: menor: 0, maior: 100, mediana: 51.50, media: 51.44 e DP: 29.13
+Reg 7 - Cid 22: menor: 0, maior: 100, mediana: 54.00, media: 51.48 e DP: 29.63
+Reg 7 - Cid 23: menor: 0, maior: 100, mediana: 50.50, media: 50.20 e DP: 28.54
+Reg 7 - Cid 24: menor: 0, maior: 100, mediana: 49.00, media: 50.05 e DP: 29.10
+Reg 7 - Cid 25: menor: 0, maior: 100, mediana: 50.00, media: 49.22 e DP: 29.22
+Reg 7 - Cid 26: menor: 0, maior: 100, mediana: 51.00, media: 49.99 e DP: 29.02
+Reg 7 - Cid 27: menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 29.41
+Reg 7 - Cid 28: menor: 0, maior: 100, mediana: 47.00, media: 49.29 e DP: 29.43
+Reg 7 - Cid 29: menor: 0, maior: 100, mediana: 48.00, media: 49.71 e DP: 29.18
+Reg 7 - Cid 30: menor: 0, maior: 100, mediana: 51.00, media: 49.78 e DP: 29.71
+Reg 7 - Cid 31: menor: 0, maior: 100, mediana: 49.00, media: 48.63 e DP: 28.39
+Reg 7 - Cid 32: menor: 0, maior: 100, mediana: 50.50, media: 50.37 e DP: 29.33
+Reg 7 - Cid 33: menor: 0, maior: 100, mediana: 50.00, media: 49.84 e DP: 28.92
+Reg 7 - Cid 34: menor: 0, maior: 100, mediana: 51.00, media: 49.22 e DP: 28.71
+Reg 7 - Cid 35: menor: 0, maior: 100, mediana: 45.50, media: 48.11 e DP: 29.01
+Reg 7 - Cid 36: menor: 0, maior: 100, mediana: 50.00, media: 50.13 e DP: 29.70
+Reg 7 - Cid 37: menor: 0, maior: 100, mediana: 49.00, media: 49.75 e DP: 29.57
+Reg 7 - Cid 38: menor: 0, maior: 100, mediana: 50.00, media: 49.41 e DP: 28.64
+Reg 7 - Cid 39: menor: 0, maior: 100, mediana: 48.00, media: 48.95 e DP: 28.54
+Reg 7 - Cid 40: menor: 0, maior: 100, mediana: 51.00, media: 50.89 e DP: 29.52
+Reg 7 - Cid 41: menor: 0, maior: 100, mediana: 51.00, media: 50.29 e DP: 29.10
+Reg 7 - Cid 42: menor: 0, maior: 100, mediana: 48.00, media: 48.57 e DP: 28.99
+Reg 7 - Cid 43: menor: 0, maior: 100, mediana: 53.00, media: 50.94 e DP: 28.85
+Reg 7 - Cid 44: menor: 0, maior: 100, mediana: 51.00, media: 49.35 e DP: 28.78
+Reg 7 - Cid 45: menor: 0, maior: 100, mediana: 51.00, media: 50.45 e DP: 29.26
+Reg 7 - Cid 46: menor: 0, maior: 100, mediana: 47.00, media: 47.98 e DP: 29.41
+Reg 7 - Cid 47: menor: 0, maior: 100, mediana: 49.00, media: 49.13 e DP: 28.98
+Reg 7 - Cid 48: menor: 0, maior: 100, mediana: 49.00, media: 49.30 e DP: 29.13
+Reg 7 - Cid 49: menor: 0, maior: 100, mediana: 55.00, media: 52.25 e DP: 29.11
+Reg 7 - Cid 50: menor: 0, maior: 100, mediana: 51.00, media: 51.39 e DP: 29.11
+Reg 7 - Cid 51: menor: 0, maior: 100, mediana: 50.00, media: 50.37 e DP: 28.89
+Reg 7 - Cid 52: menor: 0, maior: 100, mediana: 47.00, media: 48.54 e DP: 28.73
+Reg 7 - Cid 53: menor: 0, maior: 100, mediana: 52.00, media: 51.12 e DP: 29.06
+Reg 7 - Cid 54: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 30.25
+Reg 7 - Cid 55: menor: 0, maior: 100, mediana: 52.00, media: 51.92 e DP: 28.97
+Reg 7 - Cid 56: menor: 0, maior: 100, mediana: 50.00, media: 49.42 e DP: 29.70
+Reg 7 - Cid 57: menor: 0, maior: 100, mediana: 48.00, media: 49.26 e DP: 29.16
+Reg 7 - Cid 58: menor: 0, maior: 100, mediana: 51.00, media: 50.65 e DP: 29.73
+Reg 7 - Cid 59: menor: 0, maior: 100, mediana: 50.50, media: 50.72 e DP: 29.53
+Reg 7 - Cid 60: menor: 0, maior: 100, mediana: 51.00, media: 49.63 e DP: 29.26
+Reg 7 - Cid 61: menor: 0, maior: 100, mediana: 49.00, media: 49.91 e DP: 28.45
+Reg 7 - Cid 62: menor: 0, maior: 100, mediana: 49.50, media: 49.03 e DP: 30.24
+Reg 7 - Cid 63: menor: 0, maior: 100, mediana: 49.00, media: 49.69 e DP: 28.69
+Reg 7 - Cid 64: menor: 0, maior: 100, mediana: 47.00, media: 48.94 e DP: 29.42
+Reg 7 - Cid 65: menor: 0, maior: 100, mediana: 51.00, media: 50.70 e DP: 29.14
+Reg 7 - Cid 66: menor: 0, maior: 100, mediana: 52.00, media: 50.75 e DP: 28.62
+Reg 7 - Cid 67: menor: 0, maior: 100, mediana: 46.00, media: 48.55 e DP: 29.36
+Reg 7 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 49.44 e DP: 29.12
+Reg 7 - Cid 69: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 28.82
+Reg 7 - Cid 70: menor: 0, maior: 100, mediana: 49.00, media: 49.69 e DP: 29.13
+Reg 7 - Cid 71: menor: 0, maior: 100, mediana: 50.00, media: 50.85 e DP: 28.26
+Reg 7 - Cid 72: menor: 0, maior: 100, mediana: 51.00, media: 50.72 e DP: 29.24
+Reg 7 - Cid 73: menor: 0, maior: 100, mediana: 49.00, media: 49.45 e DP: 29.14
+Reg 7 - Cid 74: menor: 0, maior: 100, mediana: 49.00, media: 49.89 e DP: 28.54
+Reg 7 - Cid 75: menor: 0, maior: 100, mediana: 50.00, media: 50.52 e DP: 28.92
+Reg 7 - Cid 76: menor: 0, maior: 100, mediana: 49.00, media: 49.42 e DP: 29.16
+Reg 7 - Cid 77: menor: 0, maior: 100, mediana: 49.00, media: 49.40 e DP: 29.55
+Reg 7 - Cid 78: menor: 0, maior: 100, mediana: 50.00, media: 49.60 e DP: 28.66
+Reg 7 - Cid 79: menor: 0, maior: 100, mediana: 51.00, media: 50.81 e DP: 29.20
+Reg 7 - Cid 80: menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 29.14
+Reg 7 - Cid 81: menor: 0, maior: 100, mediana: 48.00, media: 48.04 e DP: 28.78
+Reg 7 - Cid 82: menor: 0, maior: 100, mediana: 49.00, media: 50.16 e DP: 28.92
+Reg 7 - Cid 83: menor: 0, maior: 100, mediana: 53.00, media: 52.34 e DP: 28.93
+Reg 7 - Cid 84: menor: 0, maior: 100, mediana: 48.50, media: 49.72 e DP: 28.15
+Reg 7 - Cid 85: menor: 0, maior: 100, mediana: 51.00, media: 50.66 e DP: 29.96
+Reg 7 - Cid 86: menor: 0, maior: 100, mediana: 51.00, media: 50.89 e DP: 29.18
+Reg 7 - Cid 87: menor: 0, maior: 100, mediana: 51.00, media: 50.17 e DP: 29.26
+Reg 7 - Cid 88: menor: 0, maior: 100, mediana: 52.00, media: 50.71 e DP: 28.53
+Reg 7 - Cid 89: menor: 0, maior: 100, mediana: 51.00, media: 50.88 e DP: 28.58
+Reg 7 - Cid 90: menor: 0, maior: 100, mediana: 53.00, media: 51.48 e DP: 28.66
+Reg 7 - Cid 91: menor: 0, maior: 100, mediana: 49.00, media: 49.77 e DP: 28.88
+Reg 7 - Cid 92: menor: 0, maior: 100, mediana: 51.00, media: 51.04 e DP: 29.39
+Reg 7 - Cid 93: menor: 0, maior: 100, mediana: 49.00, media: 49.35 e DP: 28.69
+Reg 7 - Cid 94: menor: 0, maior: 100, mediana: 47.00, media: 49.53 e DP: 29.30
+Reg 7 - Cid 95: menor: 0, maior: 100, mediana: 50.00, media: 48.91 e DP: 29.23
+Reg 7 - Cid 96: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 28.78
+Reg 7 - Cid 97: menor: 0, maior: 100, mediana: 50.00, media: 50.98 e DP: 29.98
+Reg 7 - Cid 98: menor: 0, maior: 100, mediana: 52.00, media: 50.70 e DP: 29.08
+Reg 7 - Cid 99: menor: 0, maior: 100, mediana: 50.00, media: 50.94 e DP: 28.85
+Reg 7 - Cid 100: menor: 0, maior: 100, mediana: 50.00, media: 49.89 e DP: 28.98
+Reg 8 - Cid 0: menor: 0, maior: 100, mediana: 48.00, media: 48.55 e DP: 29.42
+Reg 8 - Cid 1: menor: 0, maior: 100, mediana: 52.00, media: 51.63 e DP: 29.79
+Reg 8 - Cid 2: menor: 0, maior: 100, mediana: 51.50, media: 51.20 e DP: 29.30
+Reg 8 - Cid 3: menor: 0, maior: 100, mediana: 49.00, media: 49.27 e DP: 29.36
+Reg 8 - Cid 4: menor: 0, maior: 100, mediana: 54.00, media: 52.26 e DP: 28.56
+Reg 8 - Cid 5: menor: 0, maior: 100, mediana: 49.00, media: 50.40 e DP: 29.11
+Reg 8 - Cid 6: menor: 0, maior: 100, mediana: 49.00, media: 49.65 e DP: 29.28
+Reg 8 - Cid 7: menor: 0, maior: 100, mediana: 52.00, media: 50.24 e DP: 29.17
+Reg 8 - Cid 8: menor: 0, maior: 100, mediana: 51.00, media: 50.52 e DP: 29.37
+Reg 8 - Cid 9: menor: 0, maior: 100, mediana: 49.00, media: 49.58 e DP: 29.01
+Reg 8 - Cid 10: menor: 0, maior: 100, mediana: 48.00, media: 48.38 e DP: 28.51
+Reg 8 - Cid 11: menor: 0, maior: 100, mediana: 49.00, media: 49.56 e DP: 28.93
+Reg 8 - Cid 12: menor: 0, maior: 100, mediana: 50.50, media: 49.41 e DP: 28.97
+Reg 8 - Cid 13: menor: 0, maior: 100, mediana: 49.00, media: 49.33 e DP: 29.62
+Reg 8 - Cid 14: menor: 0, maior: 100, mediana: 50.00, media: 49.80 e DP: 29.06
+Reg 8 - Cid 15: menor: 0, maior: 100, mediana: 51.50, media: 50.37 e DP: 28.53
+Reg 8 - Cid 16: menor: 0, maior: 100, mediana: 49.00, media: 49.81 e DP: 29.45
+Reg 8 - Cid 17: menor: 0, maior: 100, mediana: 49.00, media: 48.66 e DP: 29.44
+Reg 8 - Cid 18: menor: 0, maior: 100, mediana: 52.00, media: 50.64 e DP: 29.56
+Reg 8 - Cid 19: menor: 0, maior: 100, mediana: 49.00, media: 49.83 e DP: 28.53
+Reg 8 - Cid 20: menor: 0, maior: 100, mediana: 53.00, media: 51.93 e DP: 29.21
+Reg 8 - Cid 21: menor: 0, maior: 100, mediana: 49.50, media: 49.04 e DP: 28.36
+Reg 8 - Cid 22: menor: 0, maior: 100, mediana: 50.50, media: 50.04 e DP: 29.47
+Reg 8 - Cid 23: menor: 0, maior: 100, mediana: 49.00, media: 49.12 e DP: 28.18
+Reg 8 - Cid 24: menor: 0, maior: 100, mediana: 49.50, media: 50.07 e DP: 29.64
+Reg 8 - Cid 25: menor: 0, maior: 100, mediana: 49.50, media: 49.02 e DP: 28.70
+Reg 8 - Cid 26: menor: 0, maior: 100, mediana: 51.00, media: 50.82 e DP: 29.23
+Reg 8 - Cid 27: menor: 0, maior: 100, mediana: 49.00, media: 49.53 e DP: 29.12
+Reg 8 - Cid 28: menor: 0, maior: 100, mediana: 50.00, media: 50.47 e DP: 28.80
+Reg 8 - Cid 29: menor: 0, maior: 100, mediana: 50.00, media: 49.48 e DP: 28.60
+Reg 8 - Cid 30: menor: 0, maior: 100, mediana: 50.00, media: 50.38 e DP: 29.33
+Reg 8 - Cid 31: menor: 0, maior: 100, mediana: 50.00, media: 49.66 e DP: 28.96
+Reg 8 - Cid 32: menor: 0, maior: 100, mediana: 48.00, media: 49.50 e DP: 28.77
+Reg 8 - Cid 33: menor: 0, maior: 100, mediana: 48.00, media: 48.90 e DP: 29.71
+Reg 8 - Cid 34: menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 29.02
+Reg 8 - Cid 35: menor: 0, maior: 100, mediana: 52.00, media: 51.26 e DP: 29.40
+Reg 8 - Cid 36: menor: 0, maior: 100, mediana: 50.50, media: 50.95 e DP: 29.92
+Reg 8 - Cid 37: menor: 0, maior: 100, mediana: 50.50, media: 49.58 e DP: 28.83
+Reg 8 - Cid 38: menor: 0, maior: 100, mediana: 52.00, media: 51.34 e DP: 29.47
+Reg 8 - Cid 39: menor: 0, maior: 100, mediana: 48.00, media: 49.50 e DP: 29.37
+Reg 8 - Cid 40: menor: 0, maior: 100, mediana: 53.00, media: 52.41 e DP: 28.95
+Reg 8 - Cid 41: menor: 0, maior: 100, mediana: 50.00, media: 49.47 e DP: 29.13
+Reg 8 - Cid 42: menor: 0, maior: 100, mediana: 51.00, media: 50.76 e DP: 29.26
+Reg 8 - Cid 43: menor: 0, maior: 100, mediana: 51.00, media: 50.51 e DP: 29.57
+Reg 8 - Cid 44: menor: 0, maior: 100, mediana: 51.00, media: 49.86 e DP: 29.72
+Reg 8 - Cid 45: menor: 0, maior: 100, mediana: 51.00, media: 50.63 e DP: 28.68
+Reg 8 - Cid 46: menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.70
+Reg 8 - Cid 47: menor: 0, maior: 100, mediana: 51.00, media: 50.35 e DP: 29.88
+Reg 8 - Cid 48: menor: 0, maior: 100, mediana: 49.00, media: 49.33 e DP: 29.31
+Reg 8 - Cid 49: menor: 0, maior: 100, mediana: 47.00, media: 48.48 e DP: 29.29
+Reg 8 - Cid 50: menor: 0, maior: 100, mediana: 51.00, media: 50.47 e DP: 28.93
+Reg 8 - Cid 51: menor: 0, maior: 100, mediana: 53.00, media: 51.51 e DP: 28.85
+Reg 8 - Cid 52: menor: 0, maior: 100, mediana: 47.50, media: 49.58 e DP: 29.52
+Reg 8 - Cid 53: menor: 0, maior: 100, mediana: 45.00, media: 46.97 e DP: 29.64
+Reg 8 - Cid 54: menor: 0, maior: 100, mediana: 49.00, media: 49.57 e DP: 29.76
+Reg 8 - Cid 55: menor: 0, maior: 100, mediana: 51.00, media: 50.54 e DP: 29.09
+Reg 8 - Cid 56: menor: 0, maior: 100, mediana: 47.00, media: 49.10 e DP: 29.12
+Reg 8 - Cid 57: menor: 0, maior: 100, mediana: 49.00, media: 50.38 e DP: 29.30
+Reg 8 - Cid 58: menor: 0, maior: 100, mediana: 49.00, media: 49.26 e DP: 29.29
+Reg 8 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 49.92 e DP: 28.91
+Reg 8 - Cid 60: menor: 0, maior: 100, mediana: 50.00, media: 49.74 e DP: 29.63
+Reg 8 - Cid 61: menor: 0, maior: 100, mediana: 49.50, media: 49.91 e DP: 29.43
+Reg 8 - Cid 62: menor: 0, maior: 100, mediana: 49.00, media: 49.75 e DP: 29.11
+Reg 8 - Cid 63: menor: 0, maior: 100, mediana: 51.00, media: 50.70 e DP: 28.74
+Reg 8 - Cid 64: menor: 0, maior: 100, mediana: 51.00, media: 50.57 e DP: 29.04
+Reg 8 - Cid 65: menor: 0, maior: 100, mediana: 50.00, media: 50.46 e DP: 28.95
+Reg 8 - Cid 66: menor: 0, maior: 100, mediana: 50.00, media: 50.17 e DP: 29.36
+Reg 8 - Cid 67: menor: 0, maior: 100, mediana: 50.00, media: 49.71 e DP: 28.82
+Reg 8 - Cid 68: menor: 0, maior: 100, mediana: 50.00, media: 50.37 e DP: 29.64
+Reg 8 - Cid 69: menor: 0, maior: 100, mediana: 49.00, media: 49.38 e DP: 29.03
+Reg 8 - Cid 70: menor: 0, maior: 100, mediana: 51.00, media: 50.77 e DP: 29.61
+Reg 8 - Cid 71: menor: 0, maior: 100, mediana: 48.00, media: 49.37 e DP: 29.52
+Reg 8 - Cid 72: menor: 0, maior: 100, mediana: 49.00, media: 49.90 e DP: 29.19
+Reg 8 - Cid 73: menor: 0, maior: 100, mediana: 50.00, media: 49.92 e DP: 29.35
+Reg 8 - Cid 74: menor: 0, maior: 100, mediana: 48.00, media: 48.95 e DP: 28.84
+Reg 8 - Cid 75: menor: 0, maior: 100, mediana: 53.00, media: 51.48 e DP: 29.47
+Reg 8 - Cid 76: menor: 0, maior: 100, mediana: 48.00, media: 48.98 e DP: 29.51
+Reg 8 - Cid 77: menor: 0, maior: 100, mediana: 51.00, media: 50.85 e DP: 28.80
+Reg 8 - Cid 78: menor: 0, maior: 100, mediana: 52.00, media: 50.65 e DP: 29.68
+Reg 8 - Cid 79: menor: 0, maior: 100, mediana: 47.00, media: 48.65 e DP: 29.06
+Reg 8 - Cid 80: menor: 0, maior: 100, mediana: 48.50, media: 49.47 e DP: 29.94
+Reg 8 - Cid 81: menor: 0, maior: 100, mediana: 52.00, media: 51.48 e DP: 29.38
+Reg 8 - Cid 82: menor: 0, maior: 100, mediana: 49.50, media: 49.66 e DP: 28.68
+Reg 8 - Cid 83: menor: 0, maior: 100, mediana: 50.00, media: 49.27 e DP: 28.87
+Reg 8 - Cid 84: menor: 0, maior: 100, mediana: 53.00, media: 50.91 e DP: 29.11
+Reg 8 - Cid 85: menor: 0, maior: 100, mediana: 50.00, media: 49.27 e DP: 28.81
+Reg 8 - Cid 86: menor: 0, maior: 100, mediana: 49.00, media: 49.28 e DP: 29.73
+Reg 8 - Cid 87: menor: 0, maior: 100, mediana: 49.00, media: 49.66 e DP: 29.40
+Reg 8 - Cid 88: menor: 0, maior: 100, mediana: 51.00, media: 50.62 e DP: 29.41
+Reg 8 - Cid 89: menor: 0, maior: 100, mediana: 50.50, media: 50.05 e DP: 30.11
+Reg 8 - Cid 90: menor: 0, maior: 100, mediana: 50.00, media: 49.45 e DP: 28.89
+Reg 8 - Cid 91: menor: 0, maior: 100, mediana: 48.00, media: 48.07 e DP: 28.46
+Reg 8 - Cid 92: menor: 0, maior: 100, mediana: 52.00, media: 51.00 e DP: 28.55
+Reg 8 - Cid 93: menor: 0, maior: 100, mediana: 51.00, media: 49.95 e DP: 29.10
+Reg 8 - Cid 94: menor: 0, maior: 100, mediana: 50.50, media: 50.06 e DP: 29.20
+Reg 8 - Cid 95: menor: 0, maior: 100, mediana: 47.00, media: 47.42 e DP: 29.45
+Reg 8 - Cid 96: menor: 0, maior: 100, mediana: 49.00, media: 49.37 e DP: 29.32
+Reg 8 - Cid 97: menor: 0, maior: 100, mediana: 48.50, media: 48.83 e DP: 29.15
+Reg 8 - Cid 98: menor: 0, maior: 100, mediana: 49.00, media: 49.50 e DP: 29.12
+Reg 8 - Cid 99: menor: 0, maior: 100, mediana: 53.00, media: 51.75 e DP: 29.41
+Reg 8 - Cid 100: menor: 0, maior: 100, mediana: 49.00, media: 49.76 e DP: 29.04
+Reg 9 - Cid 0: menor: 0, maior: 100, mediana: 49.00, media: 49.74 e DP: 28.67
+Reg 9 - Cid 1: menor: 0, maior: 100, mediana: 54.00, media: 51.32 e DP: 29.19
+Reg 9 - Cid 2: menor: 0, maior: 100, mediana: 50.50, media: 50.62 e DP: 28.50
+Reg 9 - Cid 3: menor: 0, maior: 100, mediana: 49.00, media: 49.31 e DP: 29.69
+Reg 9 - Cid 4: menor: 0, maior: 100, mediana: 50.00, media: 50.61 e DP: 29.31
+Reg 9 - Cid 5: menor: 0, maior: 100, mediana: 49.00, media: 49.52 e DP: 28.87
+Reg 9 - Cid 6: menor: 0, maior: 100, mediana: 48.50, media: 48.51 e DP: 29.32
+Reg 9 - Cid 7: menor: 0, maior: 100, mediana: 50.00, media: 50.50 e DP: 29.40
+Reg 9 - Cid 8: menor: 0, maior: 100, mediana: 49.50, media: 49.51 e DP: 28.81
+Reg 9 - Cid 9: menor: 0, maior: 100, mediana: 52.00, media: 51.50 e DP: 28.89
+Reg 9 - Cid 10: menor: 0, maior: 100, mediana: 48.00, media: 48.27 e DP: 29.18
+Reg 9 - Cid 11: menor: 0, maior: 100, mediana: 54.00, media: 51.79 e DP: 29.31
+Reg 9 - Cid 12: menor: 0, maior: 100, mediana: 51.00, media: 50.74 e DP: 29.11
+Reg 9 - Cid 13: menor: 0, maior: 100, mediana: 47.00, media: 48.63 e DP: 29.63
+Reg 9 - Cid 14: menor: 0, maior: 100, mediana: 53.00, media: 51.44 e DP: 29.11
+Reg 9 - Cid 15: menor: 0, maior: 100, mediana: 51.00, media: 50.46 e DP: 28.96
+Reg 9 - Cid 16: menor: 0, maior: 100, mediana: 53.00, media: 51.17 e DP: 29.28
+Reg 9 - Cid 17: menor: 0, maior: 100, mediana: 48.00, media: 49.26 e DP: 28.67
+Reg 9 - Cid 18: menor: 0, maior: 100, mediana: 46.00, media: 47.85 e DP: 28.98
+Reg 9 - Cid 19: menor: 0, maior: 100, mediana: 48.00, media: 49.51 e DP: 28.50
+Reg 9 - Cid 20: menor: 0, maior: 100, mediana: 48.00, media: 50.02 e DP: 29.05
+Reg 9 - Cid 21: menor: 0, maior: 100, mediana: 50.00, media: 50.53 e DP: 28.78
+Reg 9 - Cid 22: menor: 0, maior: 100, mediana: 51.00, media: 50.91 e DP: 28.72
+Reg 9 - Cid 23: menor: 0, maior: 100, mediana: 52.00, media: 51.53 e DP: 29.98
+Reg 9 - Cid 24: menor: 0, maior: 100, mediana: 48.00, media: 49.80 e DP: 28.97
+Reg 9 - Cid 25: menor: 0, maior: 100, mediana: 49.00, media: 49.36 e DP: 30.15
+Reg 9 - Cid 26: menor: 0, maior: 100, mediana: 51.00, media: 50.90 e DP: 28.84
+Reg 9 - Cid 27: menor: 0, maior: 100, mediana: 51.00, media: 50.39 e DP: 29.38
+Reg 9 - Cid 28: menor: 0, maior: 100, mediana: 51.00, media: 50.76 e DP: 30.25
+Reg 9 - Cid 29: menor: 0, maior: 100, mediana: 49.00, media: 49.36 e DP: 28.96
+Reg 9 - Cid 30: menor: 0, maior: 100, mediana: 51.50, media: 50.90 e DP: 29.27
+Reg 9 - Cid 31: menor: 0, maior: 100, mediana: 48.00, media: 48.28 e DP: 29.80
+Reg 9 - Cid 32: menor: 0, maior: 100, mediana: 50.00, media: 50.56 e DP: 28.68
+Reg 9 - Cid 33: menor: 0, maior: 100, mediana: 49.00, media: 48.99 e DP: 30.00
+Reg 9 - Cid 34: menor: 0, maior: 100, mediana: 46.00, media: 48.10 e DP: 28.96
+Reg 9 - Cid 35: menor: 0, maior: 100, mediana: 47.00, media: 49.44 e DP: 29.65
+Reg 9 - Cid 36: menor: 0, maior: 100, mediana: 51.00, media: 51.10 e DP: 28.85
+Reg 9 - Cid 37: menor: 0, maior: 100, mediana: 51.00, media: 49.95 e DP: 29.58
+Reg 9 - Cid 38: menor: 0, maior: 100, mediana: 52.00, media: 51.32 e DP: 29.57
+Reg 9 - Cid 39: menor: 0, maior: 100, mediana: 53.00, media: 51.17 e DP: 28.31
+Reg 9 - Cid 40: menor: 0, maior: 100, mediana: 50.00, media: 49.22 e DP: 28.78
+Reg 9 - Cid 41: menor: 0, maior: 100, mediana: 47.50, media: 48.37 e DP: 29.52
+Reg 9 - Cid 42: menor: 0, maior: 100, mediana: 51.00, media: 49.88 e DP: 28.68
+Reg 9 - Cid 43: menor: 0, maior: 100, mediana: 50.00, media: 49.29 e DP: 29.30
+Reg 9 - Cid 44: menor: 0, maior: 100, mediana: 51.00, media: 51.30 e DP: 29.62
+Reg 9 - Cid 45: menor: 0, maior: 100, mediana: 49.00, media: 49.62 e DP: 29.78
+Reg 9 - Cid 46: menor: 0, maior: 100, mediana: 51.00, media: 50.66 e DP: 29.33
+Reg 9 - Cid 47: menor: 0, maior: 100, mediana: 50.00, media: 50.29 e DP: 29.03
+Reg 9 - Cid 48: menor: 0, maior: 100, mediana: 50.00, media: 50.05 e DP: 29.91
+Reg 9 - Cid 49: menor: 0, maior: 100, mediana: 50.00, media: 49.71 e DP: 28.84
+Reg 9 - Cid 50: menor: 0, maior: 100, mediana: 52.00, media: 50.85 e DP: 29.29
+Reg 9 - Cid 51: menor: 0, maior: 100, mediana: 50.00, media: 49.09 e DP: 28.79
+Reg 9 - Cid 52: menor: 0, maior: 100, mediana: 50.00, media: 50.55 e DP: 29.23
+Reg 9 - Cid 53: menor: 0, maior: 100, mediana: 47.00, media: 49.07 e DP: 28.95
+Reg 9 - Cid 54: menor: 0, maior: 100, mediana: 50.00, media: 49.81 e DP: 29.44
+Reg 9 - Cid 55: menor: 0, maior: 100, mediana: 49.00, media: 49.15 e DP: 29.08
+Reg 9 - Cid 56: menor: 0, maior: 100, mediana: 49.00, media: 49.72 e DP: 29.34
+Reg 9 - Cid 57: menor: 0, maior: 100, mediana: 50.00, media: 50.80 e DP: 28.83
+Reg 9 - Cid 58: menor: 0, maior: 100, mediana: 51.00, media: 50.58 e DP: 29.18
+Reg 9 - Cid 59: menor: 0, maior: 100, mediana: 50.00, media: 50.23 e DP: 29.11
+Reg 9 - Cid 60: menor: 0, maior: 100, mediana: 50.00, media: 50.27 e DP: 29.36
+Reg 9 - Cid 61: menor: 0, maior: 100, mediana: 51.00, media: 50.76 e DP: 29.42
+Reg 9 - Cid 62: menor: 0, maior: 100, mediana: 50.00, media: 49.15 e DP: 29.26
+Reg 9 - Cid 63: menor: 0, maior: 100, mediana: 51.00, media: 50.55 e DP: 29.07
+Reg 9 - Cid 64: menor: 0, maior: 100, mediana: 51.00, media: 49.99 e DP: 29.63
+Reg 9 - Cid 65: menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 28.97
+Reg 9 - Cid 66: menor: 0, maior: 100, mediana: 50.00, media: 49.02 e DP: 28.73
+Reg 9 - Cid 67: menor: 0, maior: 100, mediana: 50.00, media: 50.37 e DP: 29.65
+Reg 9 - Cid 68: menor: 0, maior: 100, mediana: 49.00, media: 49.39 e DP: 29.45
+Reg 9 - Cid 69: menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 29.55
+Reg 9 - Cid 70: menor: 0, maior: 100, mediana: 49.00, media: 49.86 e DP: 28.90
+Reg 9 - Cid 71: menor: 0, maior: 100, mediana: 51.50, media: 50.48 e DP: 29.14
+Reg 9 - Cid 72: menor: 0, maior: 100, mediana: 50.00, media: 50.45 e DP: 29.65
+Reg 9 - Cid 73: menor: 0, maior: 100, mediana: 50.00, media: 49.80 e DP: 29.51
+Reg 9 - Cid 74: menor: 0, maior: 100, mediana: 53.00, media: 51.77 e DP: 28.90
+Reg 9 - Cid 75: menor: 0, maior: 100, mediana: 48.00, media: 49.58 e DP: 28.61
+Reg 9 - Cid 76: menor: 0, maior: 100, mediana: 50.00, media: 50.40 e DP: 29.49
+Reg 9 - Cid 77: menor: 0, maior: 100, mediana: 49.00, media: 49.32 e DP: 28.86
+Reg 9 - Cid 78: menor: 0, maior: 100, mediana: 47.00, media: 48.93 e DP: 30.12
+Reg 9 - Cid 79: menor: 0, maior: 100, mediana: 45.00, media: 47.23 e DP: 29.10
+Reg 9 - Cid 80: menor: 0, maior: 100, mediana: 48.00, media: 49.50 e DP: 29.88
+Reg 9 - Cid 81: menor: 0, maior: 100, mediana: 48.00, media: 49.81 e DP: 29.26
+Reg 9 - Cid 82: menor: 0, maior: 100, mediana: 49.50, media: 49.53 e DP: 29.83
+Reg 9 - Cid 83: menor: 0, maior: 100, mediana: 51.50, media: 50.29 e DP: 28.95
+Reg 9 - Cid 84: menor: 0, maior: 100, mediana: 52.00, media: 51.04 e DP: 28.66
+Reg 9 - Cid 85: menor: 0, maior: 100, mediana: 48.00, media: 49.04 e DP: 29.68
+Reg 9 - Cid 86: menor: 0, maior: 100, mediana: 49.00, media: 50.16 e DP: 29.50
+Reg 9 - Cid 87: menor: 0, maior: 100, mediana: 50.00, media: 50.01 e DP: 29.33
+Reg 9 - Cid 88: menor: 0, maior: 100, mediana: 51.50, media: 50.84 e DP: 29.26
+Reg 9 - Cid 89: menor: 0, maior: 100, mediana: 51.00, media: 51.71 e DP: 29.21
+Reg 9 - Cid 90: menor: 0, maior: 100, mediana: 51.00, media: 50.07 e DP: 28.91
+
+
+Reg 0 - menor: 0, maior: 100, mediana: 50.00, media: 49.70 e DP: 28.90
+Reg 1 - menor: 0, maior: 100, mediana: 50.00, media: 49.99 e DP: 29.26
+Reg 2 - menor: 0, maior: 100, mediana: 50.00, media: 50.57 e DP: 29.30
+Reg 3 - menor: 0, maior: 100, mediana: 51.00, media: 50.33 e DP: 29.21
+Reg 4 - menor: 0, maior: 100, mediana: 50.00, media: 49.61 e DP: 29.17
+Reg 5 - menor: 0, maior: 100, mediana: 50.00, media: 50.19 e DP: 29.29
+Reg 6 - menor: 0, maior: 100, mediana: 50.00, media: 50.05 e DP: 29.13
+Reg 7 - menor: 0, maior: 100, mediana: 50.00, media: 49.73 e DP: 28.90
+Reg 8 - menor: 0, maior: 100, mediana: 49.00, media: 49.62 e DP: 29.34
+Reg 9 - menor: 0, maior: 100, mediana: 51.00, media: 50.73 e DP: 29.31
+Reg 10 - menor: 0, maior: 100, mediana: 51.00, media: 50.41 e DP: 29.11
+Reg 11 - menor: 0, maior: 100, mediana: 50.00, media: 50.10 e DP: 29.14
+Reg 12 - menor: 0, maior: 100, mediana: 50.00, media: 49.98 e DP: 29.07
+Reg 13 - menor: 0, maior: 100, mediana: 50.00, media: 49.77 e DP: 29.41
+Reg 14 - menor: 0, maior: 100, mediana: 50.50, media: 50.25 e DP: 29.25
+Reg 15 - menor: 0, maior: 100, mediana: 50.00, media: 49.70 e DP: 29.19
+Reg 16 - menor: 0, maior: 100, mediana: 50.00, media: 50.04 e DP: 29.07
+Reg 17 - menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.22
+Reg 18 - menor: 0, maior: 100, mediana: 51.00, media: 50.29 e DP: 28.89
+Reg 19 - menor: 0, maior: 100, mediana: 50.00, media: 50.26 e DP: 29.23
+Reg 20 - menor: 0, maior: 100, mediana: 51.00, media: 50.14 e DP: 29.06
+Reg 21 - menor: 0, maior: 100, mediana: 50.00, media: 49.93 e DP: 29.18
+Reg 22 - menor: 0, maior: 100, mediana: 49.00, media: 49.78 e DP: 29.32
+Reg 23 - menor: 0, maior: 100, mediana: 49.00, media: 49.49 e DP: 29.07
+Reg 24 - menor: 0, maior: 100, mediana: 50.00, media: 50.21 e DP: 29.17
+Reg 25 - menor: 0, maior: 100, mediana: 50.00, media: 50.37 e DP: 29.14
+Reg 26 - menor: 0, maior: 100, mediana: 50.00, media: 49.78 e DP: 29.22
+Reg 27 - menor: 0, maior: 100, mediana: 50.00, media: 49.84 e DP: 29.06
+Reg 28 - menor: 0, maior: 100, mediana: 50.00, media: 50.11 e DP: 29.34
+Reg 29 - menor: 0, maior: 100, mediana: 50.00, media: 50.27 e DP: 29.34
+Reg 30 - menor: 0, maior: 100, mediana: 49.00, media: 48.98 e DP: 28.95
+Reg 31 - menor: 0, maior: 100, mediana: 49.00, media: 49.73 e DP: 29.22
+Reg 32 - menor: 0, maior: 100, mediana: 51.00, media: 50.50 e DP: 29.23
+Reg 33 - menor: 0, maior: 100, mediana: 51.00, media: 50.33 e DP: 29.17
+Reg 34 - menor: 0, maior: 100, mediana: 50.00, media: 50.18 e DP: 29.17
+Reg 35 - menor: 0, maior: 100, mediana: 50.00, media: 50.10 e DP: 29.23
+Reg 36 - menor: 0, maior: 100, mediana: 50.00, media: 50.24 e DP: 29.20
+Reg 37 - menor: 0, maior: 100, mediana: 51.00, media: 50.16 e DP: 29.24
+Reg 38 - menor: 0, maior: 100, mediana: 50.00, media: 49.59 e DP: 29.32
+Reg 39 - menor: 0, maior: 100, mediana: 50.00, media: 49.67 e DP: 29.01
+Reg 40 - menor: 0, maior: 100, mediana: 51.00, media: 50.53 e DP: 29.08
+Reg 41 - menor: 0, maior: 100, mediana: 49.00, media: 49.79 e DP: 29.30
+Reg 42 - menor: 0, maior: 100, mediana: 50.00, media: 50.13 e DP: 29.37
+Reg 43 - menor: 0, maior: 100, mediana: 50.00, media: 49.82 e DP: 29.13
+Reg 44 - menor: 0, maior: 100, mediana: 50.00, media: 49.94 e DP: 29.16
+Reg 45 - menor: 0, maior: 100, mediana: 50.00, media: 49.80 e DP: 29.21
+Reg 46 - menor: 0, maior: 100, mediana: 49.00, media: 49.45 e DP: 29.05
+Reg 47 - menor: 0, maior: 100, mediana: 50.00, media: 49.91 e DP: 28.90
+Reg 48 - menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 28.95
+Reg 49 - menor: 0, maior: 100, mediana: 50.00, media: 49.97 e DP: 29.24
+Reg 50 - menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 29.07
+Reg 51 - menor: 0, maior: 100, mediana: 49.00, media: 49.62 e DP: 29.33
+Reg 52 - menor: 0, maior: 100, mediana: 51.00, media: 50.35 e DP: 29.01
+Reg 53 - menor: 0, maior: 100, mediana: 50.00, media: 49.78 e DP: 29.28
+Reg 54 - menor: 0, maior: 100, mediana: 50.00, media: 49.86 e DP: 29.26
+Reg 55 - menor: 0, maior: 100, mediana: 51.00, media: 50.32 e DP: 29.17
+Reg 56 - menor: 0, maior: 100, mediana: 50.00, media: 50.28 e DP: 29.11
+Reg 57 - menor: 0, maior: 100, mediana: 50.00, media: 50.02 e DP: 29.14
+Reg 58 - menor: 0, maior: 100, mediana: 49.00, media: 49.69 e DP: 29.09
+Reg 59 - menor: 0, maior: 100, mediana: 50.00, media: 49.87 e DP: 29.19
+Reg 60 - menor: 0, maior: 100, mediana: 51.00, media: 50.37 e DP: 29.29
+Reg 61 - menor: 0, maior: 100, mediana: 50.00, media: 49.90 e DP: 29.41
+Reg 62 - menor: 0, maior: 100, mediana: 50.00, media: 49.74 e DP: 28.97
+Reg 63 - menor: 0, maior: 100, mediana: 51.00, media: 50.44 e DP: 29.36
+Reg 64 - menor: 0, maior: 100, mediana: 50.00, media: 50.25 e DP: 29.18
+Reg 65 - menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 29.22
+Reg 66 - menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 28.99
+Reg 67 - menor: 0, maior: 100, mediana: 50.00, media: 49.73 e DP: 29.08
+Reg 68 - menor: 0, maior: 100, mediana: 50.00, media: 49.90 e DP: 29.20
+Reg 69 - menor: 0, maior: 100, mediana: 49.00, media: 49.61 e DP: 29.16
+Reg 70 - menor: 0, maior: 100, mediana: 50.00, media: 50.02 e DP: 29.40
+Reg 71 - menor: 0, maior: 100, mediana: 50.00, media: 50.06 e DP: 29.22
+Reg 72 - menor: 0, maior: 100, mediana: 51.00, media: 50.58 e DP: 29.21
+Reg 73 - menor: 0, maior: 100, mediana: 50.00, media: 49.73 e DP: 29.13
+Reg 74 - menor: 0, maior: 100, mediana: 49.00, media: 49.52 e DP: 29.07
+Reg 75 - menor: 0, maior: 100, mediana: 50.00, media: 49.97 e DP: 29.04
+Reg 76 - menor: 0, maior: 100, mediana: 50.00, media: 50.17 e DP: 29.44
+Reg 77 - menor: 0, maior: 100, mediana: 50.00, media: 49.96 e DP: 28.98
+Reg 78 - menor: 0, maior: 100, mediana: 50.00, media: 49.73 e DP: 29.00
+Reg 79 - menor: 0, maior: 100, mediana: 51.00, media: 50.77 e DP: 28.95
+Reg 80 - menor: 0, maior: 100, mediana: 50.00, media: 50.05 e DP: 29.22
+Reg 81 - menor: 0, maior: 100, mediana: 50.00, media: 50.11 e DP: 29.07
+Reg 82 - menor: 0, maior: 100, mediana: 50.00, media: 49.88 e DP: 29.08
+Reg 83 - menor: 0, maior: 100, mediana: 50.00, media: 49.86 e DP: 29.00
+Reg 84 - menor: 0, maior: 100, mediana: 51.00, media: 50.30 e DP: 29.27
+Reg 85 - menor: 0, maior: 100, mediana: 50.00, media: 50.20 e DP: 29.32
+Reg 86 - menor: 0, maior: 100, mediana: 49.00, media: 49.50 e DP: 29.37
+Reg 87 - menor: 0, maior: 100, mediana: 50.00, media: 50.13 e DP: 29.18
+Reg 88 - menor: 0, maior: 100, mediana: 50.00, media: 50.03 e DP: 29.33
+Reg 89 - menor: 0, maior: 100, mediana: 50.00, media: 49.62 e DP: 29.15
+Reg 90 - menor: 0, maior: 100, mediana: 50.00, media: 49.74 e DP: 29.11
+Reg 91 - menor: 0, maior: 100, mediana: 50.00, media: 49.97 e DP: 29.12
+Reg 92 - menor: 0, maior: 100, mediana: 50.00, media: 50.09 e DP: 29.07
+Reg 93 - menor: 0, maior: 100, mediana: 51.00, media: 50.44 e DP: 29.33
+Reg 94 - menor: 0, maior: 100, mediana: 50.00, media: 49.82 e DP: 29.23
+Reg 95 - menor: 0, maior: 100, mediana: 50.00, media: 50.00 e DP: 29.33
+Reg 96 - menor: 0, maior: 100, mediana: 50.00, media: 49.93 e DP: 29.12
+Reg 97 - menor: 0, maior: 100, mediana: 50.00, media: 49.91 e DP: 29.26
+Reg 98 - menor: 0, maior: 100, mediana: 49.00, media: 49.75 e DP: 29.34
+Reg 99 - menor: 0, maior: 100, mediana: 50.00, media: 50.25 e DP: 29.26
+
+
+Brasil: menor: 0, maior: 100, mediana: 50.00, media: 50.00 e DP: 29.18
+
+Melhor regiao: Regiao 81
+Melhor cidade: Regiao 81, Cidade 49
+
+Time: 	 1.140750 

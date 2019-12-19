@@ -1,0 +1,29 @@
+Ana Carolina Fainelo de Oliveira 10284542
+Beatriz Campos de Almeida de Castro Monteiro 9778619
+João Victor Garcia Coelho 10349540
+Mateus Virginio Silva 10284156
+Matheus Sanchez 9081453
+
+/*      PCAM    DO    TRABALHO 01
+
+Particionamento
+Particionando o vetor pelas cidades e a qtd regiões, inicialmente teremos 
+Operações *Cidades*Regiôes, ou seja  5  * C * R tarefas.
+Em um primeiro momento, cada tarefa será responsável por uma computação das cidades contidas nesse vetor em 
+questão, feitas tais computações, as tarefas serão utilizadas para obter, além dos resultados obtidos 
+de forma direta com relação a cidade, pode-se obter dados pedidos referentes a cada região e ao Brasil.
+
+Comunicação
+As 5 * C * R tarefas iniciais necessitam dos valores de sua cidade, a partir do vetor. 
+Para realizar as computações subsequentes, necessita-se dos respectivos resultados obtidos 
+anteriormente, e repassando-os para as próximas tarefas, para o calculo das regiões e Brasil.
+
+Aglomeração
+Ocorrem duas aglomerações nas tarefas, uma delas referente as tarefas que fazem parte de determinada 
+cidade e a outra que determina a qual região elas, tarefas, pertences.
+
+Mapeamento
+Na nossa proposta, consideramanos a quantidade de 5 processadores(nucleos), 1 destinado para cada 
+computação requerida, recebendo uma cidade por vez.
+
+*/
